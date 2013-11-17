@@ -1,0 +1,3 @@
+# skip reset of doxygen-html for tags
+/tags/master/
+/tags/1.3/
