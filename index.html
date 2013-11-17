@@ -12,8 +12,8 @@
     </p>
     <table align="right">
       <tr>
-        <td>
-          <script type="text/javascript" src="http://www.ohloh.net/p/11530/widgets/project_basic_stats.js"></script>
+        <td style="text-align: left">
+          <script type="text/javascript" src="http://www.ohloh.net/p/11530/widgets/project_basic_stats.js"></script><br/>
         </td>
         <td>
           <img src="layer_diagram.png" align="right" alt="STXXL Layers Figure" width="350" height="251" />
@@ -42,7 +42,7 @@
     </p>
     <br/>
 
-    <h2>Downloads and Links</h2>
+    <h2>Downloads and Documentation</h2>
     <table>
       <tr>
         <td></td>
@@ -93,10 +93,10 @@
         </td>
       </tr>
     </table>
-    <ul>
-      <li>For up-to-date <a href="tags/master/"><b>Tutorial and Design Documentation</b></a> see the 1.4-dev future branch.</li>
+    <ul class="space">
+      <li>For up-to-date <a href="tags/master/"><b>Tutorial and Design Documentation</b></a> see the 1.4-dev branch.</li>
       <li>Further, older documentation is available below:
-        <ul>
+        <ul class="space">
           <li>
             FAQ- Frequently Asked Questions [<a href="tags/master/faq.html">html</a>]
           </li>
@@ -191,7 +191,7 @@
     <p>
       Special features are maintained in branches until they are merged into master. Until inclusion into the master branch, the interface may change without further notice. Please refer to <a href="tags/1.4/install.html">Installing from subversion</a> for a description on how to build these branches.
     </p>
-    <ul>
+    <ul class="space">
       <li>
         Native Command Queuing (NCQ) on Linux: <a href="https://stxxl.svn.sourceforge.net/svnroot/stxxl/branches/kernelaio/">kernelaio</a>
       </li>
@@ -203,47 +203,63 @@
       </li>
     </ul>
 
-    <h2>Ongoing and completed projects using <b>STXXL</b></h2>
-    <ul>
+    <h2>Publications, Ongoing and Completed Projects using <b>STXXL</b></h2>
+    <p>If you use STXXL and wish to appear in the following list, please provide a description line via email to one of the maintainers.</p>
+
+    <ul class="space">
       <li>
-        External Memory Breadth-First Search (BFS) [<a href="http://algo2.iti.kit.edu/dementiev/files/ebfs.pdf">paper (pdf)</a>][<a href="http://www.mpi-inf.mpg.de/~ajwani/em_bfs/">project page</a>][<a href="http://www.mpi-inf.mpg.de/~ajwani/graph_gen/">graph generators</a>]
+        Timo Bingmann, Johannes Fischer, Vitaly Osipov: "Inducing Suffix and LCP Arrays in External Memory", ALENEX 2013: Workshop on Algorithm Engineering and Experiments (Jan 2013, New Orleans, LA, USA)
+        [<a href="http://algo2.iti.kit.edu/2125.php">pdf</a>] [<a href="http://panthema.net/2012/esais/">project page</a>]
       </li>
       <li>
-        External Memory Minimum Spanning Trees [<a href="http://www.dominik-schultes.de/emmst/">project page</a>][<a href="http://algo2.iti.kit.edu/dementiev/files/emst.ps">paper (ps)</a>][<a href="http://algo2.iti.kit.edu/dementiev/files/emst.pdf">paper (pdf)</a>]
+        Daniel Feist: "External Batched Range Minimum Queries and LCP Construction", 2013: Bachelor Thesis, Supervisor: Timo Bingmann and Peter Sanders
+        [<a href="http://algo2.iti.kit.edu/2172.php">pdf</a>]
       </li>
       <li>
-        External Memory Spanning Forests and Connected Components [<a href="http://algo2.iti.kit.edu/dementiev/files/cc.pdf">report</a>][<a href="http://algo2.iti.kit.edu/dementiev/files/cc.tgz">src tarball</a>]
+        Mirko Rahn, Peter Sanders, Johannes Singler: "Scalable Distributed-Memory External Sorting", ICDE 2010: International Conference on Data Engineering (Mar 2010, Long Beach)
+        [<a href="http://arxiv.org/abs/0910.2582">arXiv</a>]
       </li>
       <li>
-        External Memory Suffix Array Construction and Suffix Array Checker [<a href="http://algo2.iti.kit.edu/dementiev/esuffix/docu/index.html">project page</a>][<a href="http://algo2.iti.kit.edu/dementiev/files/DKMS05.pdf">paper(pdf)</a>][<a href="http://algo2.iti.kit.edu/dementiev/esuffix/instances.shtml">input instances</a>]
+        Raoul Steffen: "Matrix Operations for STXXL", 2010: Bachelor Thesis, Supervisor: Johannes Singler and Peter Sanders
+        [<a href="http://algo2.iti.kit.edu/1920.php">pdf</a>]
+      </li>
+      <li>
+        Andreas Beckmann, Roman Dementiev, Johannes Singler: "Building A Parallel Pipelined External Memory Algorithm Library", IPDPS 2009: International Parallel and Distributed Processing Symposium (May 2009, Rome, Italy)
+        [<a href="http://algo2.iti.kit.edu/singler/publications/parallelstxxl-ipdps2009.pdf">full text</a>]
+      </li>
+      <li>
+        Roman Dementiev, Lutz Kettner, Peter Sanders: "STXXL: standard template library for XXL data sets", Software: Practice and Experience (August 2007, DOI: 10.1002/spe.844)
+        [<a href="http://www3.interscience.wiley.com/cgi-bin/abstract/114300511/ABSTRACT">link</a>] [<a href="http://algo2.iti.kit.edu/dementiev/files/stxxl_spe.pdf">preprint</a>]
+      </li>
+      <li>
+        D. Ajwani, Roman Dementiev, Ulrich Meyer: "A Computational Study of External-Memory BFS Algorithms", SODA 2006: ACM-SIAM Symposium on Discrete Algorithms (January 2006, Miami, Florida, USA)
+        [<a href="http://algo2.iti.kit.edu/dementiev/files/ebfs.pdf">pdf</a>]
+      </li>
+      <li>
+        Roman Dementiev, Lutz Kettner, Peter Sanders: "Stxxl: Standard Template Library for XXL Data Sets", ESA 2005: 13th Annual European Symposium on Algorithms (October 2005, Palma de Mallorca, Spain)
+        [<a href="http://algo2.iti.kit.edu/dementiev/files/DKS05.pdf">pdf</a>] [see also <a href="http://algo2.iti.kit.edu/dementiev/files/TRKA2005_18.pdf">the extended version</a>]
+      </li>
+      <li>
+        Roman Dementiev, Lutz Kettner, Peter Sanders: "Stxxl: Standard Template Library for XXL Data Sets", Technical Report 2005/18, Department of Informatics, University of Karlsruhe
+        [<a href="http://algo2.iti.kit.edu/dementiev/files/TRKA2005_18.pdf">pdf</a>] [<a href="http://algo2.iti.kit.edu/dementiev/stxxl/report/">html</a>]
+      </li>
+      <li>
+        Roman Dementiev, Juha Kaerkkaeinen, Jens Mehnert, Peter Sanders: "Better External Memory Suffix Array Construction", ALENEX 2005: Algorithm Engineering and Experiments (January 2005, Vancouver, Canada):
+        [<a href="http://algo2.iti.kit.edu/dementiev/files/DKMS05.pdf">pdf</a>] [<a href="http://algo2.iti.kit.edu/dementiev/esuffix/instances.shtml">input instances</a>] [<a href="http://algo2.iti.kit.edu/dementiev/esuffix/docu/index.html">project page</a>]
+      </li>
+      <li>
+        Roman Dementiev, Peter Sanders, Dominik Schultes, Jop Sibeyn: "Engineering an External Memory Minimum Spanning Tree Algorithm", TSC 04: 3rd IFIP International Conference on Theoretical Computer Science (August 24-26, 2004, Toulouse): [<a href="http://algo2.iti.kit.edu/dementiev/files/emst.ps">ps</a>] [<a href="http://algo2.iti.kit.edu/dementiev/files/emst.pdf">pdf</a>] [<a href="http://www.dominik-schultes.de/emmst/">project page</a>]
+      </li>
+      <li>
+        Dominik Schultes: "External Memory Spanning Forests and Connected Components" (2003)
+        [<a href="http://algo2.iti.kit.edu/dementiev/files/cc.pdf">report</a>] [<a href="http://algo2.iti.kit.edu/dementiev/files/cc.tgz">src tarball</a>]
+      </li>
+      <li>
+        Roman Dementiev, Peter Sanders: "Asynchronous Parallel Disk Sorting", SPAA 2003: 15th ACM Symposium on Parallelism in Algorithms and Architectures (June 7-9, 2003, San Diego, California, USA)
+        [<a href="http://algo2.iti.kit.edu/dementiev/files/DS03.pdf">pdf</a>]
       </li>
     </ul>
 
-    <h2>Publications</h2>
-    <p>
-      A. Beckmann, R. Dementiev, J. Singler: Building A Parallel Pipelined External Memory Algorithm Library IPDPS 2009: International Parallel and Distributed Processing Symposium (May 2009, Rome, Italy) [<a href="http://algo2.iti.kit.edu/singler/publications/parallelstxxl-ipdps2009.pdf">full text</a>]
-    </p>
-    <p>
-      R. Dementiev, L. Kettner, P. Sanders: STXXL: standard template library for XXL data sets, Software: Practice and Experience (August 2007, DOI: 10.1002/spe.844): [<a href="http://www3.interscience.wiley.com/cgi-bin/abstract/114300511/ABSTRACT">link</a>][<a href="http://algo2.iti.kit.edu/dementiev/files/stxxl_spe.pdf">preprint</a>]
-    </p>
-    <p>
-      D. Ajwani, R. Dementiev, U. Meyer: A Computational Study of External-Memory BFS Algorithms. SODA2006: ACM-SIAM Symposium on Discrete Algorithms (January 2006, Miami, Florida, USA) [<a href="http://algo2.iti.kit.edu/dementiev/files/ebfs.pdf">pdf</a>]
-    </p>
-    <p>
-      R. Dementiev, L. Kettner, P. Sanders: Stxxl: Standard Template Library for XXL Data Sets. ESA2005: 13th Annual European Symposium on Algorithms (October 2005, Palma de Mallorca, Spain) [<a href="http://algo2.iti.kit.edu/dementiev/files/DKS05.pdf">pdf</a>] (see also <a href="http://algo2.iti.kit.edu/dementiev/files/TRKA2005_18.pdf">the extended version</a>)
-    </p>
-    <p>
-      R. Dementiev, L. Kettner, P. Sanders: Stxxl: Standard Template Library for XXL Data Sets. Technical Report 2005/18, Department of Informatics, University of Karlsruhe [<a href="http://algo2.iti.kit.edu/dementiev/files/TRKA2005_18.pdf">pdf</a>] [<a href="http://algo2.iti.kit.edu/dementiev/stxxl/report/">html</a>]
-    </p>
-    <p>
-      R. Dementiev, J. Kaerkkaeinen, J. Mehnert, P. Sanders: Better External Memory Suffix Array Construction ALENEX05: Algorithm Engineering and Experiments (January 2005, Vancouver, Canada): [<a href="http://algo2.iti.kit.edu/dementiev/files/DKMS05.pdf">pdf</a>][<a href="http://algo2.iti.kit.edu/dementiev/esuffix/instances.shtml">input instances</a>]
-    </p>
-    <p>
-      R. Dementiev, P. Sanders, D. Schultes, and J. Sibeyn: Engineering an External Memory Minimum Spanning Tree Algorithm. TSC04: 3rd IFIP International Conference on Theoretical Computer Science (August 24-26, 2004, Toulouse): [<a href="http://algo2.iti.kit.edu/dementiev/files/emst.ps">ps</a>] [<a href="http://algo2.iti.kit.edu/dementiev/files/emst.pdf">pdf</a>]
-    </p>
-    <p>
-      R. Dementiev, P. Sanders: Asynchronous Parallel Disk Sorting. In 15th ACM Symposium on Parallelism in Algorithms and Architectures (June 7-9, 2003, San Diego, California, USA): pages 138-148 [<a href="http://algo2.iti.kit.edu/dementiev/files/DS03.pdf">pdf</a>]
-    </p>
     <h2>
       <a href="https://sourceforge.net/projects/stxxl/"><img src="http://sflogo.sourceforge.net/sflogo.php?group_id=131632&amp;type=1" width="88" height="31" border="0" alt="SourceForge.net Logo" /></a>
     </h2>
