@@ -1,0 +1,8 @@
+<area shape="rect" href="$classblock__w__info.html" title="block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;" alt="" coords="2629,5,2939,32">
+<area shape="rect" href="$classblock__w__info.html" title="block_w_info\&lt; block_type::value_type, RawSize_, 0, void \&gt;" alt="" coords="2963,56,3331,83">
+<area shape="rect" href="$classblock__w__bids.html" title="block_w_bids\&lt; T_,((RawSize_&#45;sizeof(BID\&lt; RawSize_ \&gt;)*NBids_&#45;sizeof(InfoType_))/sizeof(T_)), RawSize_, NBids_ \&gt;" alt="" coords="1245,33,1941,60">
+<area shape="rect" href="$classelement__block.html" title="element_block\&lt; T_, Size_ \&gt;" alt="" coords="364,8,548,35">
+<area shape="rect" href="$classelement__block.html" title="Contains data elements for stxxl::typed_block , not intended for direct use." alt="" coords="7,33,183,60">
+<area shape="rect" href="$classblock__w__bids.html" title="Contains BID references for stxxl::typed_block , not intended for direct use." alt="" coords="312,59,600,85">
+<area shape="rect" href="$classtyped__block.html" title="Block containing elements of fixed length." alt="" coords="3355,5,3659,32">
+<area shape="rect" href="$classtyped__block.html" title="typed_block\&lt; sizeof(block_type::value_type), block_type::value_type \&gt;" alt="" coords="4051,33,4485,60">

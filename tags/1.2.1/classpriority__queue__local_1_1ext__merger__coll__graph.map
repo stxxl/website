@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" href="$classpriority__queue__local_1_1internal__bounded__stack.html" title="priority_queue_local::internal_bounded_stack\&lt; unsigned_type, arity \&gt;" alt="" coords="4111,31,4532,57"/>
+<area shape="rect" href="$classpriority__queue__local_1_1internal__bounded__stack.html" title="Similar to std::stack, with the following differences:Maximum size is fixed at compilation time..." alt="" coords="3460,5,3857,32"/>
+<area shape="rect" href="$classtyped__block.html" title="typed_block\&lt; sizeof(value_type), value_type \&gt;" alt="" coords="4176,107,4467,133"/>
+<area shape="rect" href="$classblock__w__info.html" title="block_w_info\&lt; value_type, RawSize_, 0, void \&gt;" alt="" coords="3105,56,3401,83"/>
+<area shape="rect" href="$classblock__w__bids.html" title="block_w_bids\&lt; value_type,((RawSize_&#45;sizeof(BID\&lt; RawSize_ \&gt;)*NBids_&#45;sizeof(void))/sizeof(value_type)), RawSize_, NBids_ \&gt;" alt="" coords="1709,13,2469,40"/>
+<area shape="rect" href="$classelement__block.html" title="element_block\&lt; value_type, Size_ \&gt;" alt="" coords="740,104,972,131"/>
+<area shape="rect" href="$classelement__block.html" title="Contains data elements for stxxl::typed_block , not intended for direct use." alt="" coords="359,169,535,196"/>
+<area shape="rect" href="$classblock__w__bids.html" title="Contains BID references for stxxl::typed_block , not intended for direct use." alt="" coords="712,155,1000,181"/>
+<area shape="rect" href="$classelement__block.html" title="element_block\&lt; T_, Size_ \&gt;" alt="" coords="764,205,948,232"/>
+<area shape="rect" href="$structBID.html" title="BID\&lt; raw_size \&gt;" alt="" coords="388,43,505,69"/>
+<area shape="rect" href="$classblock__w__bids.html" title="block_w_bids\&lt; T_,((RawSize_&#45;sizeof(BID\&lt; RawSize_ \&gt;)*NBids_&#45;sizeof(InfoType_))/sizeof(T_)), RawSize_, NBids_ \&gt;" alt="" coords="1741,152,2437,179"/>
+<area shape="rect" href="$classfile.html" title="Defines interface of file." alt="" coords="7,36,44,63"/>
+<area shape="rect" href="$structBID.html" title="Block identifier class." alt="" coords="137,73,233,100"/>
+<area shape="rect" href="$classblock__w__info.html" title="Contains per block information for stxxl::typed_block , not intended for direct use." alt="" coords="2521,101,2836,128"/>
+<area shape="rect" href="$classblock__w__info.html" title="block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;" alt="" coords="3099,107,3408,133"/>
+<area shape="rect" href="$classtyped__block.html" title="Block containing elements of fixed length." alt="" coords="3507,107,3811,133"/>
+<area shape="rect" href="$classwrite__pool.html" title="write_pool\&lt; block_type \&gt;" alt="" coords="4239,157,4404,184"/>
+<area shape="rect" href="$classwrite__pool.html" title="Implements dynamically resizable buffered writing pool." alt="" coords="3577,157,3740,184"/>
+<area shape="rect" href="$classprefetch__pool.html" title="prefetch_pool\&lt; block_type \&gt;" alt="" coords="4228,208,4415,235"/>
+<area shape="rect" href="$classprefetch__pool.html" title="Implements dynamically resizable prefetching pool." alt="" coords="3567,208,3751,235"/>
+</map>

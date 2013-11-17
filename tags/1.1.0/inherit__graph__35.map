@@ -1,0 +1,5 @@
+<area shape="rect" href="$classrequest.html" title="Defines interface of request." alt="" coords="5,56,69,83">
+<area shape="rect" href="$classufs__request__base.html" title="Base for UNIX file system implementations." alt="" coords="119,56,241,83">
+<area shape="rect" href="$classmmap__request.html" title="Implementation of memory mapped access file request." alt="" coords="300,5,407,32">
+<area shape="rect" href="$classsim__disk__request.html" title="Implementation of disk emulation." alt="" coords="292,56,415,83">
+<area shape="rect" href="$classsyscall__request.html" title="Implementation of request based on UNIX syscalls." alt="" coords="297,107,409,133">

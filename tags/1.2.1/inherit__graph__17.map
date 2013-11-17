@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" href="$classfile.html" title="Defines interface of file." alt="" coords="7,31,44,57"/>
+<area shape="rect" href="$classmem__file.html" title="Implementation of file based on new[] and memcpy." alt="" coords="105,5,180,32"/>
+<area shape="rect" href="$classufs__file__base.html" title="Base for UNIX file system implementations." alt="" coords="93,56,192,83"/>
+<area shape="rect" href="$classmmap__file.html" title="Implementation of memory mapped access file." alt="" coords="249,5,329,32"/>
+<area shape="rect" href="$classsim__disk__file.html" title="Implementation of disk emulation." alt="" coords="241,56,337,83"/>
+<area shape="rect" href="$classsyscall__file.html" title="Implementation of file based on UNIX syscalls." alt="" coords="247,107,332,133"/>
+</map>

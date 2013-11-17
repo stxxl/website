@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classrequest__with__state.html" title="Request with completion state." alt="" coords="35,155,165,181"/>
+<area shape="rect" href="$classrequest.html" title="Request with basic properties like file and offset." alt="" coords="5,80,69,107"/>
+<area shape="rect" href="$classrequest__interface.html" title="Functional interface of a request." alt="" coords="40,5,160,32"/>
+<area shape="rect" href="$classrequest__with__waiters.html" title="Request that is aware of threads waiting for it to complete." alt="" coords="93,80,235,107"/>
+</map>

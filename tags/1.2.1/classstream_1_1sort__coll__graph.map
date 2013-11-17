@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" href="$classstream_1_1runs__merger.html" title="stream::runs_merger\&lt; sorted_runs_type, Cmp_, AllocStr_ \&gt;" alt="" coords="1608,36,1976,63"/>
+<area shape="rect" href="$classblock__prefetcher.html" title="Encapsulates asynchronous prefetching engine." alt="" coords="585,31,892,57"/>
+<area shape="rect" href="$classstream_1_1runs__merger.html" title="Merges sorted runs." alt="" coords="1000,73,1333,100"/>
+<area shape="rect" href="$classrequest__ptr.html" title="A smart wrapper for request pointer." alt="" coords="391,31,476,57"/>
+<area shape="rect" href="$classrequest.html" title="Defines interface of request." alt="" coords="261,31,325,57"/>
+<area shape="rect" href="$classfile.html" title="Defines interface of file." alt="" coords="53,5,91,32"/>
+<area shape="rect" href="$classcompletion__handler.html" title="Completion handler class (Loki&#45;style)." alt="" coords="5,56,139,83"/>
+</map>

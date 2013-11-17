@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classprefetch__pool.html" title="Implements dynamically resizable prefetching pool." alt="" coords="5,5,189,32"/>
+<area shape="rect" href="$classwrite__pool.html" title="Implements dynamically resizable buffered writing pool." alt="" coords="213,5,376,32"/>
+</map>

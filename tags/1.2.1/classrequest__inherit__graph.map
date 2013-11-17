@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$classmem__request.html" title="Implementation of request based on memcpy()." alt="" coords="13,80,112,107"/>
+<area shape="rect" href="$classufs__request__base.html" title="Base for UNIX file system implementations." alt="" coords="136,80,259,107"/>
+<area shape="rect" href="$classmmap__request.html" title="Implementation of memory mapped access file request." alt="" coords="5,155,112,181"/>
+<area shape="rect" href="$classsim__disk__request.html" title="Implementation of disk emulation." alt="" coords="136,155,259,181"/>
+<area shape="rect" href="$classsyscall__request.html" title="Implementation of request based on UNIX syscalls." alt="" coords="283,155,395,181"/>
+</map>

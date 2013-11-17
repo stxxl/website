@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" href="$classelement__block.html" title="element_block\&lt; T_, Size_ \&gt;" alt="" coords="7,31,191,57"/>
+<area shape="rect" href="$classblock__w__bids.html" title="block_w_bids\&lt; T_,((RawSize_&#45;sizeof(BID\&lt; RawSize_ \&gt;)*NBids_)/sizeof(T_)), RawSize_, NBids_ \&gt;" alt="" coords="292,5,884,32"/>
+<area shape="rect" href="$classblock__w__bids.html" title="block_w_bids\&lt; T_,((RawSize_&#45;sizeof(BID\&lt; RawSize_ \&gt;)*NBids_&#45;sizeof(InfoType_))/sizeof(T_)), RawSize_, NBids_ \&gt;" alt="" coords="240,56,936,83"/>
+<area shape="rect" href="$classblock__w__info.html" title="Contains per block information for stxxl::typed_block , not intended for direct use." alt="" coords="985,31,1300,57"/>
+<area shape="rect" href="$classblock__w__info.html" title="block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;" alt="" coords="988,81,1297,108"/>
+<area shape="rect" href="$classadd__filler.html" title="add_filler\&lt; block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;, RawSize_&#45;sizeof(block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;)\&gt;" alt="" coords="1351,81,2132,108"/>
+<area shape="rect" href="$classexpand__struct.html" title="expand_struct\&lt; block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;, RawSize_ \&gt;" alt="" coords="2183,81,2663,108"/>
+<area shape="rect" href="$classtyped__block.html" title="Block containing elements of fixed length." alt="" coords="2712,81,3016,108"/>
+</map>

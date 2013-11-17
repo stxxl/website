@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" href="$classstream_1_1basic__runs__merger.html" title="Merges sorted runs." alt="" coords="5,368,376,395"/>
+<area shape="rect" href="$classblock__prefetcher.html" title="Encapsulates asynchronous prefetching engine." alt="" coords="37,277,344,304"/>
+<area shape="rect" href="$classrequest__ptr.html" title="A smart wrapper for request pointer." alt="" coords="148,187,233,213"/>
+<area shape="rect" href="$classrequest.html" title="Basic properties of a request." alt="" coords="159,96,223,123"/>
+<area shape="rect" href="$classrequest__base.html" title="Defines interface of request." alt="" coords="49,5,148,32"/>
+<area shape="rect" href="$classfile.html" title="Defines interface of file." alt="" coords="172,5,209,32"/>
+<area shape="rect" href="$classcompletion__handler.html" title="Completion handler class (Loki&#45;style)." alt="" coords="233,5,367,32"/>
+</map>

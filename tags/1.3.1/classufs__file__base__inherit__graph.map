@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classmmap__file.html" title="Implementation of memory mapped access file." alt="" coords="5,155,85,181"/>
+<area shape="rect" href="$classsim__disk__file.html" title="Implementation of disk emulation." alt="" coords="109,155,205,181"/>
+<area shape="rect" href="$classsyscall__file.html" title="Implementation of file based on UNIX syscalls." alt="" coords="229,155,315,181"/>
+<area shape="rect" href="$classfile.html" title="Defines interface of file." alt="" coords="139,5,176,32"/>
+</map>

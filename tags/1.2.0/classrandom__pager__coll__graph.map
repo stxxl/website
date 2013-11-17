@@ -1,0 +1,4 @@
+<area shape="rect" href="$structrandom__number.html" title="random_number\&lt; random_uniform_fast \&gt;" alt="" coords="104,187,363,213">
+<area shape="rect" href="$structrandom__uniform__fast.html" title="Fast uniform [0.0, 1.0) pseudo&#45;random generator." alt="" coords="5,96,149,123">
+<area shape="rect" href="$structrandom__number32.html" title="Fast uniform [0, 2^32) pseudo&#45;random generator with period 2^32, random bits: 32..." alt="" coords="13,5,141,32">
+<area shape="rect" href="$structrandom__number.html" title="Uniform [0, N) pseudo&#45;random generator." alt="" coords="173,96,397,123">

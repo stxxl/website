@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classrequest.html" title="Request with basic properties like file and offset." alt="" coords="136,96,200,123"/>
+<area shape="rect" href="$classrequest__interface.html" title="Functional interface of a request." alt="" coords="5,5,125,32"/>
+<area shape="rect" href="$classfile.html" title="Defines interface of file." alt="" coords="149,5,187,32"/>
+<area shape="rect" href="$classcompletion__handler.html" title="Completion handler class (Loki&#45;style)." alt="" coords="211,5,344,32"/>
+</map>

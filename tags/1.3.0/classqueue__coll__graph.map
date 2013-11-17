@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" href="$classtyped__block.html" title="Block containing elements of fixed length." alt="" coords="3384,129,3688,156"/>
+<area shape="rect" href="$classblock__w__info.html" title="block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;" alt="" coords="2987,124,3296,151"/>
+<area shape="rect" href="$classblock__w__bids.html" title="block_w_bids\&lt; T_,((RawSize_&#45;sizeof(BID\&lt; RawSize_ \&gt;)*NBids_&#45;sizeof(InfoType_))/sizeof(T_)), RawSize_, NBids_ \&gt;" alt="" coords="1645,73,2341,100"/>
+<area shape="rect" href="$classblock__w__info.html" title="Contains per block information for stxxl::typed_block , not intended for direct use." alt="" coords="2409,124,2724,151"/>
+<area shape="rect" href="$classelement__block.html" title="element_block\&lt; T_, Size_ \&gt;" alt="" coords="764,5,948,32"/>
+<area shape="rect" href="$classelement__block.html" title="Contains data elements for stxxl::typed_block , not intended for direct use." alt="" coords="407,25,583,52"/>
+<area shape="rect" href="$classblock__w__bids.html" title="Contains BID references for stxxl::typed_block , not intended for direct use." alt="" coords="712,67,1000,93"/>
+<area shape="rect" href="$structBID.html" title="BID\&lt; raw_size \&gt;" alt="" coords="436,91,553,117"/>
+<area shape="rect" href="$classfile.html" title="Defines interface of file." alt="" coords="7,131,44,157"/>
+<area shape="rect" href="$structBID.html" title="Block identifier class." alt="" coords="151,131,247,157"/>
+<area shape="rect" href="$classblock__manager.html" title="Block manager class." alt="" coords="272,181,381,208"/>
+<area shape="rect" href="$classread__write__pool.html" title="Implements dynamically resizable buffered writing and prefetched reading pool." alt="" coords="3439,232,3633,259"/>
+<area shape="rect" href="$classprefetch__pool.html" title="Implements dynamically resizable prefetching pool." alt="" coords="3049,232,3233,259"/>
+<area shape="rect" href="$classwrite__pool.html" title="Implements dynamically resizable buffered writing pool." alt="" coords="3060,283,3223,309"/>
+</map>

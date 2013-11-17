@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" href="$classexpand__struct.html" title="expand_struct\&lt; block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;, RawSize_ \&gt;" alt="" coords="4895,157,5375,184"/>
+<area shape="rect" href="$classadd__filler.html" title="add_filler\&lt; block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;, RawSize_&#45;sizeof(block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;)\&gt;" alt="" coords="3684,131,4465,157"/>
+<area shape="rect" href="$classblock__w__info.html" title="block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;" alt="" coords="3123,77,3432,104"/>
+<area shape="rect" href="$classblock__w__bids.html" title="block_w_bids\&lt; T_,((RawSize_&#45;sizeof(BID\&lt; RawSize_ \&gt;)*NBids_&#45;sizeof(InfoType_))/sizeof(T_)), RawSize_, NBids_ \&gt;" alt="" coords="1597,61,2293,88"/>
+<area shape="rect" href="$classblock__w__info.html" title="Contains per block information for stxxl::typed_block , not intended for direct use." alt="" coords="2345,91,2660,117"/>
+<area shape="rect" href="$classelement__block.html" title="element_block\&lt; T_, Size_ \&gt;" alt="" coords="716,5,900,32"/>
+<area shape="rect" href="$classelement__block.html" title="Contains data elements for stxxl::typed_block , not intended for direct use." alt="" coords="359,29,535,56"/>
+<area shape="rect" href="$classblock__w__bids.html" title="Contains BID references for stxxl::typed_block , not intended for direct use." alt="" coords="664,61,952,88"/>
+<area shape="rect" href="$structBID.html" title="BID\&lt; raw_size \&gt;" alt="" coords="388,95,505,121"/>
+<area shape="rect" href="$classfile.html" title="Defines interface of file." alt="" coords="7,100,44,127"/>
+<area shape="rect" href="$structBID.html" title="Block identifier class." alt="" coords="137,137,233,164"/>
+<area shape="rect" href="$classadd__filler.html" title="Contains per block filler for stxxl::typed_block , not intended for direct use." alt="" coords="2393,160,2612,187"/>
+<area shape="rect" href="$classadd__filler.html" title="add_filler\&lt; Tp_, RawSize_&#45;sizeof(Tp_)\&gt;" alt="" coords="3152,192,3403,219"/>
+<area shape="rect" href="$classexpand__struct.html" title="Helper to compute the size of the filler , not intended for direct use." alt="" coords="3967,188,4183,215"/>
+</map>

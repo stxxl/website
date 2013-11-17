@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" href="$structstream_1_1sorted__runs.html" title="stream::sorted_runs\&lt; trigger_entry_type \&gt;" alt="" coords="5705,68,5969,95"/>
+<area shape="rect" href="$structstream_1_1sorted__runs.html" title="All sorted runs of a sort operation." alt="" coords="5139,68,5397,95"/>
+<area shape="rect" href="$classtyped__block.html" title="Block containing elements of fixed length." alt="" coords="5685,127,5989,153"/>
+<area shape="rect" href="$classexpand__struct.html" title="expand_struct\&lt; block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;, RawSize_ \&gt;" alt="" coords="5028,125,5508,152"/>
+<area shape="rect" href="$classadd__filler.html" title="add_filler\&lt; block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;, RawSize_&#45;sizeof(block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;)\&gt;" alt="" coords="3817,64,4599,91"/>
+<area shape="rect" href="$classblock__w__info.html" title="block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;" alt="" coords="3256,11,3565,37"/>
+<area shape="rect" href="$classblock__w__bids.html" title="block_w_bids\&lt; T_,((RawSize_&#45;sizeof(BID\&lt; RawSize_ \&gt;)*NBids_&#45;sizeof(InfoType_))/sizeof(T_)), RawSize_, NBids_ \&gt;" alt="" coords="1731,35,2427,61"/>
+<area shape="rect" href="$classblock__w__info.html" title="Contains per block information for stxxl::typed_block , not intended for direct use." alt="" coords="2479,35,2793,61"/>
+<area shape="rect" href="$classelement__block.html" title="element_block\&lt; T_, Size_ \&gt;" alt="" coords="849,44,1033,71"/>
+<area shape="rect" href="$classelement__block.html" title="Contains data elements for stxxl::typed_block , not intended for direct use." alt="" coords="484,89,660,116"/>
+<area shape="rect" href="$classblock__w__bids.html" title="Contains BID references for stxxl::typed_block , not intended for direct use." alt="" coords="797,95,1085,121"/>
+<area shape="rect" href="$structBID.html" title="BID\&lt; raw_size \&gt;" alt="" coords="513,19,631,45"/>
+<area shape="rect" href="$classfile.html" title="Defines interface of file." alt="" coords="53,80,91,107"/>
+<area shape="rect" href="$structBID.html" title="Block identifier class." alt="" coords="263,80,359,107"/>
+<area shape="rect" href="$classrequest.html" title="Request with basic properties like file and offset." alt="" coords="279,171,343,197"/>
+<area shape="rect" href="$classadd__filler.html" title="Contains per block filler for stxxl::typed_block , not intended for direct use." alt="" coords="2527,99,2745,125"/>
+<area shape="rect" href="$classadd__filler.html" title="add_filler\&lt; Tp_, RawSize_&#45;sizeof(Tp_)\&gt;" alt="" coords="3285,125,3536,152"/>
+<area shape="rect" href="$classexpand__struct.html" title="Helper to compute the size of the filler , not intended for direct use." alt="" coords="4100,125,4316,152"/>
+<area shape="rect" href="$classrequest__ptr.html" title="Implemented as reference counting smart pointer." alt="" coords="687,175,772,201"/>
+<area shape="rect" href="$classrequest__interface.html" title="Functional interface of a request." alt="" coords="12,171,132,197"/>
+<area shape="rect" href="$classcompletion__handler.html" title="Completion handler class (Loki&#45;style)." alt="" coords="5,221,139,248"/>
+</map>

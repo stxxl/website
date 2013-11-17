@@ -1,0 +1,5 @@
+<area shape="rect" href="$classblock__prefetcher.html" title="Encapsulates asynchronous prefetching engine." alt="" coords="5,277,312,304">
+<area shape="rect" href="$classrequest__ptr.html" title="A smart wrapper for request pointer." alt="" coords="116,187,201,213">
+<area shape="rect" href="$classrequest.html" title="Defines interface of request." alt="" coords="127,96,191,123">
+<area shape="rect" href="$classfile.html" title="Defines interface of file." alt="" coords="85,5,123,32">
+<area shape="rect" href="$classcompletion__handler.html" title="Completion handler class (Loki&#45;style)." alt="" coords="147,5,280,32">

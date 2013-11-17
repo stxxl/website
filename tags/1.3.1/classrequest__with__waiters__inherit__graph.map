@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classrequest__with__state.html" title="Request with completion state." alt="" coords="11,155,141,181"/>
+<area shape="rect" href="$classrequest__interface.html" title="Functional interface of a request." alt="" coords="16,5,136,32"/>
+<area shape="rect" href="$classserving__request.html" title="Request which serves an I/O by calling the synchronous routine of the file." alt="" coords="20,229,132,256"/>
+</map>

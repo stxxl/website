@@ -1,0 +1,28 @@
+<map id="G" name="G">
+<area shape="rect" href="$classwrite__pool.html" title="write_pool\&lt; block_type \&gt;" alt="" coords="4793,232,4959,259"/>
+<area shape="rect" href="$classpriority__queue__local_1_1ext__merger.html" title="External merger, based on the loser tree data structure. !" alt="" coords="5593,179,6039,205"/>
+<area shape="rect" href="$classwrite__pool.html" title="Implements dynamically resizable buffered writing pool." alt="" coords="3865,236,4028,263"/>
+<area shape="rect" href="$classpriority__queue__local_1_1loser__tree.html" title="priority_queue_local::loser_tree\&lt; value_type, comparator_type, IntKMAX \&gt;" alt="" coords="5589,45,6043,72"/>
+<area shape="rect" href="$classpriority__queue__local_1_1internal__bounded__stack.html" title="priority_queue_local::internal_bounded_stack\&lt; unsigned_type, KNKMAX \&gt;" alt="" coords="3720,33,4173,60"/>
+<area shape="rect" href="$classpriority__queue__local_1_1loser__tree.html" title="Loser tree from Knuth, &quot;Sorting and Searching&quot;, Section 5.4.1 !" alt="" coords="4691,45,5061,72"/>
+<area shape="rect" href="$classpriority__queue__local_1_1internal__bounded__stack.html" title="Similar to std::stack, with the following differences:Maximum size is fixed at compilation time..." alt="" coords="3100,60,3497,87"/>
+<area shape="rect" href="$classpriority__queue__local_1_1internal__bounded__stack.html" title="priority_queue_local::internal_bounded_stack\&lt; unsigned_type, arity \&gt;" alt="" coords="4199,95,4620,121"/>
+<area shape="rect" href="$classpriority__queue__local_1_1internal__priority__queue.html" title="priority_queue_local::internal_priority_queue\&lt; value_type, std::vector\&lt; value_type \&gt;, comparator_type \&gt;" alt="" coords="5504,373,6128,400"/>
+<area shape="rect" href="$classpriority__queue__local_1_1internal__priority__queue.html" title="Similar to std::priority_queue, with the following differences:Maximum size is fixed at construction ..." alt="" coords="4647,373,5105,400"/>
+<area shape="rect" href="$classtyped__block.html" title="typed_block\&lt; sizeof(value_type), value_type \&gt;" alt="" coords="4731,160,5021,187"/>
+<area shape="rect" href="$classblock__w__info.html" title="block_w_info\&lt; value_type, RawSize_, 0, void \&gt;" alt="" coords="3151,135,3447,161"/>
+<area shape="rect" href="$classblock__w__bids.html" title="block_w_bids\&lt; value_type,((RawSize_&#45;sizeof(BID\&lt; RawSize_ \&gt;)*NBids_&#45;sizeof(void))/sizeof(value_type)), RawSize_, NBids_ \&gt;" alt="" coords="1709,92,2469,119"/>
+<area shape="rect" href="$classelement__block.html" title="element_block\&lt; value_type, Size_ \&gt;" alt="" coords="740,183,972,209"/>
+<area shape="rect" href="$classelement__block.html" title="Contains data elements for stxxl::typed_block , not intended for direct use." alt="" coords="359,248,535,275"/>
+<area shape="rect" href="$classblock__w__bids.html" title="Contains BID references for stxxl::typed_block , not intended for direct use." alt="" coords="712,233,1000,260"/>
+<area shape="rect" href="$classelement__block.html" title="element_block\&lt; T_, Size_ \&gt;" alt="" coords="764,284,948,311"/>
+<area shape="rect" href="$structBID.html" title="BID\&lt; raw_size \&gt;" alt="" coords="388,121,505,148"/>
+<area shape="rect" href="$classblock__w__bids.html" title="block_w_bids\&lt; T_,((RawSize_&#45;sizeof(BID\&lt; RawSize_ \&gt;)*NBids_&#45;sizeof(InfoType_))/sizeof(T_)), RawSize_, NBids_ \&gt;" alt="" coords="1741,231,2437,257"/>
+<area shape="rect" href="$classfile.html" title="Defines interface of file." alt="" coords="7,115,44,141"/>
+<area shape="rect" href="$structBID.html" title="Block identifier class." alt="" coords="137,152,233,179"/>
+<area shape="rect" href="$classblock__w__info.html" title="Contains per block information for stxxl::typed_block , not intended for direct use." alt="" coords="2521,180,2836,207"/>
+<area shape="rect" href="$classblock__w__info.html" title="block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;" alt="" coords="3144,185,3453,212"/>
+<area shape="rect" href="$classtyped__block.html" title="Block containing elements of fixed length." alt="" coords="3795,185,4099,212"/>
+<area shape="rect" href="$classprefetch__pool.html" title="prefetch_pool\&lt; block_type \&gt;" alt="" coords="4783,293,4969,320"/>
+<area shape="rect" href="$classprefetch__pool.html" title="Implements dynamically resizable prefetching pool." alt="" coords="3855,293,4039,320"/>
+</map>

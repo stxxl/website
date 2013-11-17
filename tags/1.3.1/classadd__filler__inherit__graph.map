@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$classadd__filler.html" title="add_filler\&lt; block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;, RawSize_&#45;sizeof(block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;)\&gt;" alt="" coords="1260,5,2041,32"/>
+<area shape="rect" href="$classadd__filler.html" title="add_filler\&lt; Tp_, RawSize_&#45;sizeof(Tp_)\&gt;" alt="" coords="984,56,1235,83"/>
+<area shape="rect" href="$classexpand__struct.html" title="expand_struct\&lt; block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;, RawSize_ \&gt;" alt="" coords="2711,27,3191,53"/>
+<area shape="rect" href="$classtyped__block.html" title="Block containing elements of fixed length." alt="" coords="3243,27,3547,53"/>
+<area shape="rect" href="$classexpand__struct.html" title="Helper to compute the size of the filler , not intended for direct use." alt="" coords="2067,56,2283,83"/>
+</map>

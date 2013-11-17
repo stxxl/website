@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classstream_1_1runs__merger.html" title="Merges sorted runs." alt="" coords="691,5,1024,32"/>
+<area shape="rect" href="$classstream_1_1basic__runs__merger.html" title="stream::basic_runs_merger\&lt; sorted_runs_type, Cmp_, AllocStr_ \&gt;" alt="" coords="655,56,1060,83"/>
+<area shape="rect" href="$classstream_1_1runs__merger.html" title="stream::runs_merger\&lt; sorted_runs_type, Cmp_, AllocStr_ \&gt;" alt="" coords="1336,31,1704,57"/>
+</map>

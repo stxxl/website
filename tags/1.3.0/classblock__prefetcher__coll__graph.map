@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$classrequest__ptr.html" title="A smart wrapper for request pointer." alt="" coords="116,187,201,213"/>
+<area shape="rect" href="$classrequest.html" title="Basic properties of a request." alt="" coords="127,96,191,123"/>
+<area shape="rect" href="$classrequest__base.html" title="Defines interface of request." alt="" coords="17,5,116,32"/>
+<area shape="rect" href="$classfile.html" title="Defines interface of file." alt="" coords="140,5,177,32"/>
+<area shape="rect" href="$classcompletion__handler.html" title="Completion handler class (Loki&#45;style)." alt="" coords="201,5,335,32"/>
+</map>

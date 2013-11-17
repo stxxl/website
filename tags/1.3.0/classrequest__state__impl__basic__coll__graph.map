@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$classrequest.html" title="Basic properties of a request." alt="" coords="211,96,275,123"/>
+<area shape="rect" href="$classrequest__base.html" title="Defines interface of request." alt="" coords="75,5,173,32"/>
+<area shape="rect" href="$classrequest__waiters__impl__basic.html" title="Implements basic waiters." alt="" coords="5,96,187,123"/>
+<area shape="rect" href="$classfile.html" title="Defines interface of file." alt="" coords="215,5,252,32"/>
+<area shape="rect" href="$classcompletion__handler.html" title="Completion handler class (Loki&#45;style)." alt="" coords="276,5,409,32"/>
+</map>

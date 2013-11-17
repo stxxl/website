@@ -1,0 +1,4 @@
+<area shape="rect" href="$classelement__block.html" title="element_block\&lt; my_type, Size_ \&gt;" alt="" coords="7,5,225,32">
+<area shape="rect" href="$classblock__w__bids.html" title="block_w_bids\&lt; my_type,((RawSize_&#45;sizeof(BID\&lt; RawSize_ \&gt;)*NBids_&#45;sizeof(void))/sizeof(my_type)), RawSize_, NBids_ \&gt;" alt="" coords="275,5,1008,32">
+<area shape="rect" href="$classblock__w__info.html" title="block_w_info\&lt; my_type, RawSize_, 0, void \&gt;" alt="" coords="1057,5,1340,32">
+<area shape="rect" href="$classtyped__block.html" title="typed_block\&lt; 4096, my_type \&gt;" alt="" coords="1391,5,1591,32">

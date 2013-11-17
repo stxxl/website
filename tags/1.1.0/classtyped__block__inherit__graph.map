@@ -1,0 +1,9 @@
+<area shape="rect" href="$classtyped__block.html" title="typed_block\&lt; sizeof(block_type::value_type), block_type::value_type \&gt;" alt="" coords="3627,5,4061,32">
+<area shape="rect" href="$classtyped__block.html" title="typed_block\&lt; sizeof(unsigned), unsigned \&gt;" alt="" coords="3709,56,3979,83">
+<area shape="rect" href="$classtyped__block.html" title="typed_block\&lt; 4096, my_type \&gt;" alt="" coords="3744,107,3944,133">
+<area shape="rect" href="$classblock__w__info.html" title="block_w_info\&lt; T_, RawSize_, NRef_, InfoType_ \&gt;" alt="" coords="2571,56,2880,83">
+<area shape="rect" href="$classblock__w__bids.html" title="block_w_bids\&lt; T_,((RawSize_&#45;sizeof(BID\&lt; RawSize_ \&gt;)*NBids_&#45;sizeof(InfoType_))/sizeof(T_)), RawSize_, NBids_ \&gt;" alt="" coords="1245,52,1941,79">
+<area shape="rect" href="$classblock__w__info.html" title="Contains per block information for stxxl::typed_block , not intended for direct use..." alt="" coords="1993,85,2308,112">
+<area shape="rect" href="$classelement__block.html" title="element_block\&lt; T_, Size_ \&gt;" alt="" coords="364,27,548,53">
+<area shape="rect" href="$classelement__block.html" title="Contains data elements for stxxl::typed_block , not intended for direct use." alt="" coords="7,52,183,79">
+<area shape="rect" href="$classblock__w__bids.html" title="Contains BID references for stxxl::typed_block , not intended for direct use." alt="" coords="312,77,600,104">
