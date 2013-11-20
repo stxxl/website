@@ -56,6 +56,10 @@ ul.space > li {
     padding-bottom: 0.5ex;
 }
 
+img.ficon {
+    vertical-align: middle
+}
+
 /*----Navigation Bar----*/
 
 #navbar {
