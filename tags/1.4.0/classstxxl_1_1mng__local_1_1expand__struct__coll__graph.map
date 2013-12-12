@@ -1,0 +1,6 @@
+<map id="stxxl::mng_local::expand_struct&lt; Type, RawSize &gt;" name="stxxl::mng_local::expand_struct&lt; Type, RawSize &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1mng__local_1_1add__filler.html" title="stxxl::mng_local::add\l_filler\&lt; Type, RawSize\l&#45;sizeof(Type)\&gt;" alt="" coords="883,9,1037,73"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1mng__local_1_1filler__struct.html" title="stxxl::mng_local::filler\l_struct\&lt; FillSize \&gt;" alt="" coords="275,6,424,53"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1mng__local_1_1add__filler.html" title="Contains per block filler for stxxl::typed_block , not intended for direct use. " alt="" coords="501,57,688,103"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1mng__local_1_1filler__struct.html" title="stxxl::mng_local::filler\l_struct\&lt; Bytes \&gt;" alt="" coords="5,6,155,53"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="stxxl::set_switch_handler" name="stxxl::set_switch_handler">
+<area shape="rect" id="node2" href="$classstxxl_1_1onoff__switch.html" title="stxxl::onoff_switch" alt="" coords="607,44,737,73"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="13,29,144,59"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="352,29,445,59"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1condition__variable.html" title="stxxl::condition_variable" alt="" coords="317,83,480,112"/>
+<area shape="rect" id="node12" href="$classstxxl_1_1completion__handler.html" title="Completion handler class (Loki&#45;style). " alt="" coords="587,109,757,139"/>
+<area shape="rect" id="node14" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; stxxl::completion\l_handler_impl \&gt;" alt="" coords="321,136,476,200"/>
+<area shape="rect" id="node16" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; _Tp \&gt;" alt="" coords="5,145,152,191"/>
+</map>

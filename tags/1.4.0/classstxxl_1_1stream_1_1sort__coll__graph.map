@@ -1,0 +1,18 @@
+<map id="stxxl::stream::sort&lt; Input_, CompareType_, BlockSize_, AllocStr_, runs_creator_type &gt;" name="stxxl::stream::sort&lt; Input_, CompareType_, BlockSize_, AllocStr_, runs_creator_type &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="13,235,144,264"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1stream_1_1basic__runs__merger.html" title="stxxl::stream::basic\l_runs_merger\&lt; sorted\l_runs_type, CompareType\l_, AllocStr_ \&gt;" alt="" coords="1719,121,1895,202"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1block__prefetcher.html" title="Encapsulates asynchronous prefetching engine. " alt="" coords="961,313,1129,377"/>
+<area shape="rect" id="node16" href="$classstxxl_1_1onoff__switch.html" title="stxxl::onoff_switch" alt="" coords="673,296,804,325"/>
+<area shape="rect" id="node19" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="352,213,445,243"/>
+<area shape="rect" id="node22" href="$classstxxl_1_1condition__variable.html" title="stxxl::condition_variable" alt="" coords="317,267,480,296"/>
+<area shape="rect" id="node34" href="$classstxxl_1_1loser__tree.html" title="stxxl::loser_tree\&lt;\l run_cursor_type, run\l_cursor_cmp_type \&gt;" alt="" coords="973,144,1117,208"/>
+<area shape="rect" id="node38" href="$classstxxl_1_1stream_1_1basic__runs__merger.html" title="Merges sorted runs. " alt="" coords="1297,285,1495,349"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1stream_1_1runs__merger.html" title="stxxl::stream::runs\l_merger\&lt; sorted_runs\l_type, CompareType_,\l AllocStr_ \&gt;" alt="" coords="2117,121,2272,202"/>
+<area shape="rect" id="node12" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="659,153,819,199"/>
+<area shape="rect" id="node14" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="319,143,479,190"/>
+<area shape="rect" id="node25" href="$classstxxl_1_1counting__ptr.html" title="High&#45;performance smart pointer used as a wrapping reference counting pointer. " alt="" coords="675,421,803,467"/>
+<area shape="rect" id="node27" href="$classstxxl_1_1completion__handler.html" title="Completion handler class (Loki&#45;style). " alt="" coords="653,491,824,520"/>
+<area shape="rect" id="node29" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; stxxl::completion\l_handler_impl \&gt;" alt="" coords="321,595,476,659"/>
+<area shape="rect" id="node31" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; _Tp \&gt;" alt="" coords="5,603,152,650"/>
+<area shape="rect" id="node44" href="$classstxxl_1_1stream_1_1runs__merger.html" title="Merges sorted runs. " alt="" coords="1713,259,1900,323"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="stxxl::buf_istream_reverse&lt; BlockType, BIDIteratorType &gt;" name="stxxl::buf_istream_reverse&lt; BlockType, BIDIteratorType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="13,381,144,411"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1block__prefetcher.html" title="Encapsulates asynchronous prefetching engine. " alt="" coords="975,341,1143,405"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1onoff__switch.html" title="stxxl::onoff_switch" alt="" coords="687,433,817,463"/>
+<area shape="rect" id="node14" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="352,537,445,567"/>
+<area shape="rect" id="node17" href="$classstxxl_1_1condition__variable.html" title="stxxl::condition_variable" alt="" coords="317,433,480,463"/>
+<area shape="rect" id="node31" href="$classstxxl_1_1simple__vector.html" title="stxxl::simple_vector\l\&lt; BID\&lt; BLK_SIZE \&gt; \&gt;" alt="" coords="675,199,829,246"/>
+<area shape="rect" id="node34" href="$classstxxl_1_1simple__vector.html" title="Simpler non&#45;growing vector without initialization. " alt="" coords="329,193,468,239"/>
+<area shape="rect" id="node7" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="672,313,832,359"/>
+<area shape="rect" id="node9" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="319,313,479,359"/>
+<area shape="rect" id="node20" href="$classstxxl_1_1counting__ptr.html" title="High&#45;performance smart pointer used as a wrapping reference counting pointer. " alt="" coords="688,486,816,533"/>
+<area shape="rect" id="node22" href="$classstxxl_1_1completion__handler.html" title="Completion handler class (Loki&#45;style). " alt="" coords="667,39,837,68"/>
+<area shape="rect" id="node24" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; stxxl::completion\l_handler_impl \&gt;" alt="" coords="321,8,476,72"/>
+<area shape="rect" id="node26" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; _Tp \&gt;" alt="" coords="5,17,152,63"/>
+<area shape="rect" id="node29" href="$classstxxl_1_1BIDArray.html" title="stxxl::BIDArray\&lt; block\l_type::raw_size \&gt;" alt="" coords="1344,197,1499,243"/>
+<area shape="rect" id="node37" href="$classstxxl_1_1BIDArray.html" title="stxxl::BIDArray\&lt; BLK\l_SIZE \&gt;" alt="" coords="984,146,1133,193"/>
+</map>

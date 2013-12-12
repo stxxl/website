@@ -1,0 +1,6 @@
+<map id="stxxl::request_with_waiters" name="stxxl::request_with_waiters">
+<area shape="rect" id="node7" href="$classstxxl_1_1request__with__state.html" title="Request with completion state. " alt="" coords="19,257,149,303"/>
+<area shape="rect" id="node2" href="$classstxxl_1_1request__interface.html" title="Functional interface of a request. " alt="" coords="5,83,163,112"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="19,5,149,35"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1serving__request.html" title="Request which serves an I/O by calling the synchronous routine of the file. " alt="" coords="9,352,159,381"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="stxxl::atomic_counted_object" name="stxxl::atomic_counted_object">
+<area shape="rect" id="node3" href="$classstxxl_1_1request.html" title="Request with basic properties like file and offset. " alt="" coords="29,119,131,148"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1swappable__block__matrix.html" title="External container for a (sub)matrix. Not intended for direct use. " alt="" coords="155,101,360,165"/>
+<area shape="rect" id="node5" href="$classstxxl_1_1request__with__state.html" title="Request with completion state. " alt="" coords="15,214,145,261"/>
+<area shape="rect" id="node7" href="$classstxxl_1_1serving__request.html" title="Request which serves an I/O by calling the synchronous routine of the file. " alt="" coords="5,309,155,339"/>
+</map>

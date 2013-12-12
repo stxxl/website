@@ -1,0 +1,18 @@
+<map id="stxxl::vector_bufreader_reverse&lt; VectorIteratorType &gt;" name="stxxl::vector_bufreader_reverse&lt; VectorIteratorType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,377,136,407"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1buf__istream__reverse.html" title="Buffered input stream, reading the items in the blocks in reverse order. " alt="" coords="1529,232,1679,296"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1block__prefetcher.html" title="Encapsulates asynchronous prefetching engine. " alt="" coords="1241,232,1409,296"/>
+<area shape="rect" id="node15" href="$classstxxl_1_1onoff__switch.html" title="stxxl::onoff_switch" alt="" coords="551,321,681,351"/>
+<area shape="rect" id="node18" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="221,293,315,323"/>
+<area shape="rect" id="node21" href="$classstxxl_1_1condition__variable.html" title="stxxl::condition_variable" alt="" coords="187,347,349,376"/>
+<area shape="rect" id="node35" href="$classstxxl_1_1simple__vector.html" title="stxxl::simple_vector\l\&lt; BID\&lt; BLK_SIZE \&gt; \&gt;" alt="" coords="539,477,693,523"/>
+<area shape="rect" id="node38" href="$classstxxl_1_1simple__vector.html" title="Simpler non&#45;growing vector without initialization. " alt="" coords="199,450,337,497"/>
+<area shape="rect" id="node4" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="875,77,1035,123"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="536,77,696,123"/>
+<area shape="rect" id="node24" href="$classstxxl_1_1counting__ptr.html" title="High&#45;performance smart pointer used as a wrapping reference counting pointer. " alt="" coords="891,358,1019,405"/>
+<area shape="rect" id="node26" href="$classstxxl_1_1completion__handler.html" title="Completion handler class (Loki&#45;style). " alt="" coords="869,184,1040,213"/>
+<area shape="rect" id="node28" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; stxxl::completion\l_handler_impl \&gt;" alt="" coords="539,155,693,219"/>
+<area shape="rect" id="node30" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; _Tp \&gt;" alt="" coords="195,163,341,210"/>
+<area shape="rect" id="node33" href="$classstxxl_1_1BIDArray.html" title="stxxl::BIDArray\&lt; block\l_type::raw_size \&gt;" alt="" coords="1248,427,1403,474"/>
+<area shape="rect" id="node41" href="$classstxxl_1_1BIDArray.html" title="stxxl::BIDArray\&lt; BLK\l_SIZE \&gt;" alt="" coords="880,427,1029,474"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="stxxl::vector_iterator&lt; ValueType, AllocStr, SizeType, DiffType, BlockSize, PagerType, PageSize &gt;" name="stxxl::vector_iterator&lt; ValueType, AllocStr, SizeType, DiffType, BlockSize, PagerType, PageSize &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1double__blocked__index.html" title="stxxl::double_blocked\l_index\&lt; size_type, modulo2,\l modulo1 \&gt;" alt="" coords="1489,83,1679,147"/>
+<area shape="rect" id="node4" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="1184,5,1344,51"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="819,5,979,51"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1vector.html" title="External vector container. &#160;Introduction to vector container: see STXXL Vector tutorial. &#160;Design and Internals of vector container: see Vector. " alt="" coords="1472,291,1696,355"/>
+<area shape="rect" id="node10" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="608,119,683,148"/>
+<area shape="rect" id="node17" href="$classstxxl_1_1block__manager.html" title="Block manager class. " alt="" coords="1191,228,1337,257"/>
+<area shape="rect" id="node26" href="$classstxxl_1_1disk__allocator.html" title="stxxl::disk_allocator" alt="" coords="829,200,968,229"/>
+<area shape="rect" id="node12" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,293,136,323"/>
+<area shape="rect" id="node14" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="237,144,331,173"/>
+<area shape="rect" id="node19" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; block\l_manager \&gt;" alt="" coords="569,243,721,290"/>
+<area shape="rect" id="node22" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; INSTANCE,\l destroy_on_exit \&gt;" alt="" coords="187,247,381,294"/>
+<area shape="rect" id="node33" href="$classstxxl_1_1simple__vector.html" title="stxxl::simple_vector\l\&lt; stxxl::typed_block \&gt;" alt="" coords="569,367,721,414"/>
+<area shape="rect" id="node36" href="$classstxxl_1_1simple__vector.html" title="Simpler non&#45;growing vector without initialization. " alt="" coords="215,418,353,465"/>
+<area shape="rect" id="node39" href="$classstxxl_1_1simple__vector.html" title="stxxl::simple_vector\l\&lt; int_type \&gt;" alt="" coords="576,443,715,490"/>
+<area shape="rect" id="node31" href="$classstxxl_1_1vector_1_1bid__vector.html" title="stxxl::vector\&lt; ValueType,\l PageSize, PagerType, BlockSize,\l AllocStr, SizeType \&gt;::bid_vector" alt="" coords="1152,452,1376,516"/>
+</map>

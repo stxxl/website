@@ -1,0 +1,21 @@
+var structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb =
+[
+    [ "block_scheduler_type", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#af6362f61687539d32308f475381d4ac5", null ],
+    [ "bt", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#a5edaaf9d0eba2f694c0e280de04c0235", null ],
+    [ "Ops", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#af189e12a61266a191f6ee3bc2fb2f6a2", null ],
+    [ "size_type", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#a376f4d59ab09246e28ebb38e14322080", null ],
+    [ "swappable_block_identifier_type", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#a28ad5072325a86d75c262f62fe73b8f4", null ],
+    [ "swappable_block_matrix_type", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#a8743d8403976d54ab98b0607f99b2d31", null ],
+    [ "feedable_strassen_winograd_block_grained", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#a7bc8c071f77a6ea809078b4a763843a7", null ],
+    [ "feedable_strassen_winograd_block_grained", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#ad056f31d97ff5537b5b4c394226f9c44", null ],
+    [ "feedable_strassen_winograd_block_grained", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#a92d021b8cd1749fd56d4f0889181f97c", null ],
+    [ "feedable_strassen_winograd_block_grained", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#aac469c10e327419d81ea51d0dfcb308a", null ],
+    [ "feed_a", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#a8996e7448e56550e7cfc9e9418accbe5", null ],
+    [ "feed_b", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#aa0f9d211dfc47dbc05d3a49a07168c05", null ],
+    [ "get_num_temp_grains", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#ace34657bbb0c5b056b2f91df45348781", null ],
+    [ "multiply", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#a13210b2d4a57f1b140fd597699bdb2b2", null ],
+    [ "read_and_add", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#a1d04f134e2c41524d27fed40afe8ebb1", null ],
+    [ "a", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#a070efb8806c92434e3b34f8ae2bf8357", null ],
+    [ "b", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#a9561c6ca85d9e5700fe41fa453ad4a38", null ],
+    [ "c", "structstxxl_1_1matrix__local_1_1feedable__strassen__winograd__block__grained_3_01ValueType_00_01e7c8bcfad33794a580e711dfab7e2cbb.html#a23079244c1345a8de8eb91950f735ab4", null ]
+];

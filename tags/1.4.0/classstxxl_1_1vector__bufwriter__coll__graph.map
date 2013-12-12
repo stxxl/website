@@ -1,0 +1,6 @@
+<map id="stxxl::vector_bufwriter&lt; VectorIteratorType &gt;" name="stxxl::vector_bufwriter&lt; VectorIteratorType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="353,5,484,35"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1buf__ostream.html" title="Buffered output stream. " alt="" coords="628,42,836,89"/>
+<area shape="rect" id="node4" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="339,86,499,133"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="5,86,165,133"/>
+</map>

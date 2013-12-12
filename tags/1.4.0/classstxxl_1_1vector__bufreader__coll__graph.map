@@ -1,0 +1,14 @@
+<map id="stxxl::vector_bufreader&lt; VectorIteratorType &gt;" name="stxxl::vector_bufreader&lt; VectorIteratorType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="13,115,144,144"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1buf__istream.html" title="Buffered input stream. " alt="" coords="1249,278,1457,325"/>
+<area shape="rect" id="node7" href="$classstxxl_1_1block__prefetcher.html" title="Encapsulates asynchronous prefetching engine. " alt="" coords="961,269,1129,333"/>
+<area shape="rect" id="node14" href="$classstxxl_1_1onoff__switch.html" title="stxxl::onoff_switch" alt="" coords="673,173,804,203"/>
+<area shape="rect" id="node17" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="352,93,445,123"/>
+<area shape="rect" id="node20" href="$classstxxl_1_1condition__variable.html" title="stxxl::condition_variable" alt="" coords="317,147,480,176"/>
+<area shape="rect" id="node10" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="659,453,819,499"/>
+<area shape="rect" id="node12" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="319,453,479,499"/>
+<area shape="rect" id="node23" href="$classstxxl_1_1counting__ptr.html" title="High&#45;performance smart pointer used as a wrapping reference counting pointer. " alt="" coords="675,301,803,347"/>
+<area shape="rect" id="node25" href="$classstxxl_1_1completion__handler.html" title="Completion handler class (Loki&#45;style). " alt="" coords="653,371,824,400"/>
+<area shape="rect" id="node27" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; stxxl::completion\l_handler_impl \&gt;" alt="" coords="321,353,476,417"/>
+<area shape="rect" id="node29" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; _Tp \&gt;" alt="" coords="5,362,152,409"/>
+</map>

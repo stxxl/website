@@ -1,0 +1,6 @@
+<map id="stxxl::random_pager&lt; npages_ &gt;" name="stxxl::random_pager&lt; npages_ &gt;">
+<area shape="rect" id="node2" href="$structstxxl_1_1random__number.html" title="stxxl::random_number\l\&lt; stxxl::random_uniform\l_fast \&gt;" alt="" coords="153,232,316,296"/>
+<area shape="rect" id="node4" href="$structstxxl_1_1random__uniform__fast.html" title="Fast uniform [0.0, 1.0) pseudo&#45;random generator. " alt="" coords="5,111,184,140"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1random__number32.html" title="Fast uniform [0, 2^32) pseudo&#45;random generator with period 2^32, random bits: 32. ..." alt="" coords="12,5,177,35"/>
+<area shape="rect" id="node8" href="$structstxxl_1_1random__number.html" title="Uniform [0, N) pseudo&#45;random generator. " alt="" coords="208,102,357,149"/>
+</map>

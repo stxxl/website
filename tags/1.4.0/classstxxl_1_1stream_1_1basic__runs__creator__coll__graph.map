@@ -1,0 +1,9 @@
+<map id="stxxl::stream::basic_runs_creator&lt; Input_, CompareType_, BlockSize_, AllocStr_ &gt;" name="stxxl::stream::basic_runs_creator&lt; Input_, CompareType_, BlockSize_, AllocStr_ &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="672,5,803,35"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1stream_1_1sorted__runs.html" title="All sorted runs of a sort operation. " alt="" coords="861,25,1032,89"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1counting__ptr.html" title="stxxl::counting_ptr\l\&lt; sorted_runs_data_type \&gt;" alt="" coords="1197,74,1376,121"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1counted__object.html" title="Provides reference counting abilities for use with counting_ptr. " alt="" coords="664,92,811,121"/>
+<area shape="rect" id="node11" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="339,155,499,202"/>
+<area shape="rect" id="node13" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="5,155,165,202"/>
+<area shape="rect" id="node15" href="$classstxxl_1_1counting__ptr.html" title="High&#45;performance smart pointer used as a wrapping reference counting pointer. " alt="" coords="883,113,1011,159"/>
+</map>

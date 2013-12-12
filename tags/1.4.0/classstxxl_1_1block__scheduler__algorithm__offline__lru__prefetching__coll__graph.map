@@ -1,0 +1,13 @@
+<map id="stxxl::block_scheduler_algorithm_offline_lru_prefetching&lt; SwappableBlockType &gt;" name="stxxl::block_scheduler_algorithm_offline_lru_prefetching&lt; SwappableBlockType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1block__scheduler__algorithm.html" title="Interface of a block scheduling algorithm. " alt="" coords="1709,21,1941,67"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,152,136,181"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1block__scheduler.html" title="Schedules swapping of blocks and provides blocks for temporary storage. " alt="" coords="1471,78,1641,125"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; block\l_manager \&gt;" alt="" coords="569,107,721,154"/>
+<area shape="rect" id="node14" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; INSTANCE,\l destroy_on_exit \&gt;" alt="" coords="187,143,381,190"/>
+<area shape="rect" id="node17" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="608,223,683,252"/>
+<area shape="rect" id="node20" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="237,264,331,293"/>
+<area shape="rect" id="node23" href="$classstxxl_1_1disk__allocator.html" title="stxxl::disk_allocator" alt="" coords="829,233,968,263"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1block__manager.html" title="Block manager class. " alt="" coords="1159,143,1305,172"/>
+<area shape="rect" id="node28" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="1152,241,1312,287"/>
+<area shape="rect" id="node30" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="819,286,979,333"/>
+</map>

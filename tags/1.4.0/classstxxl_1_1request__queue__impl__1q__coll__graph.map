@@ -1,0 +1,10 @@
+<map id="stxxl::request_queue_impl_1q" name="stxxl::request_queue_impl_1q">
+<area shape="rect" id="node2" href="$classstxxl_1_1request__queue__impl__worker.html" title="stxxl::request_queue\l_impl_worker" alt="" coords="740,9,881,56"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1request__queue.html" title="stxxl::request_queue" alt="" coords="375,6,516,35"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,206,136,235"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="221,163,315,193"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1state.html" title="stxxl::state\&lt; thread\l_state \&gt;" alt="" coords="908,276,1041,323"/>
+<area shape="rect" id="node15" href="$classstxxl_1_1condition__variable.html" title="stxxl::condition_variable" alt="" coords="187,285,349,314"/>
+<area shape="rect" id="node18" href="$classstxxl_1_1state.html" title="stxxl::state\&lt; ValueType \&gt;" alt="" coords="541,285,715,314"/>
+<area shape="rect" id="node23" href="$classstxxl_1_1semaphore.html" title="stxxl::semaphore" alt="" coords="567,127,689,157"/>
+</map>

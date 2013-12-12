@@ -1,0 +1,7 @@
+<map id="stxxl::wincall_file" name="stxxl::wincall_file">
+<area shape="rect" id="node2" href="$classstxxl_1_1wfs__file__base.html" title="Base for Windows file system implementations. " alt="" coords="184,261,323,291"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="55,181,129,211"/>
+<area shape="rect" id="node12" href="$classstxxl_1_1disk__queued__file.html" title="Implementation of some file methods based on serving_request. " alt="" coords="5,261,160,291"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="16,5,147,35"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="89,85,183,115"/>
+</map>

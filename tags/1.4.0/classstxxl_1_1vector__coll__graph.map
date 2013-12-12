@@ -1,0 +1,13 @@
+<map id="stxxl::vector&lt; ValueType, PageSize, PagerType, BlockSize, AllocStr, SizeType &gt;" name="stxxl::vector&lt; ValueType, PageSize, PagerType, BlockSize, AllocStr, SizeType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="608,260,683,289"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1block__manager.html" title="Block manager class. " alt="" coords="1143,227,1289,256"/>
+<area shape="rect" id="node18" href="$classstxxl_1_1disk__allocator.html" title="stxxl::disk_allocator" alt="" coords="819,187,957,216"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,239,136,268"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="237,208,331,237"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; block\l_manager \&gt;" alt="" coords="569,55,721,102"/>
+<area shape="rect" id="node14" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; INSTANCE,\l destroy_on_exit \&gt;" alt="" coords="187,55,381,102"/>
+<area shape="rect" id="node25" href="$classstxxl_1_1simple__vector.html" title="stxxl::simple_vector\l\&lt; stxxl::typed_block \&gt;" alt="" coords="569,339,721,386"/>
+<area shape="rect" id="node28" href="$classstxxl_1_1simple__vector.html" title="Simpler non&#45;growing vector without initialization. " alt="" coords="215,362,353,409"/>
+<area shape="rect" id="node31" href="$classstxxl_1_1simple__vector.html" title="stxxl::simple_vector\l\&lt; int_type \&gt;" alt="" coords="576,411,715,458"/>
+<area shape="rect" id="node23" href="$classstxxl_1_1vector_1_1bid__vector.html" title="stxxl::vector\&lt; ValueType,\l PageSize, PagerType, BlockSize,\l AllocStr, SizeType \&gt;::bid_vector" alt="" coords="1104,472,1328,536"/>
+</map>

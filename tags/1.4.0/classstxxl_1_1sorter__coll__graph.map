@@ -1,0 +1,27 @@
+<map id="stxxl::sorter&lt; ValueType, CompareType, BlockSize, AllocStrategy &gt;" name="stxxl::sorter&lt; ValueType, CompareType, BlockSize, AllocStrategy &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="353,353,484,383"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1stream_1_1basic__runs__merger.html" title="stxxl::stream::basic\l_runs_merger\&lt; typename\l runs_creator_type::sorted\l_runs_type, cmp_type, alloc\l_strategy_type \&gt;" alt="" coords="2139,452,2325,551"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1block__prefetcher.html" title="Encapsulates asynchronous prefetching engine. " alt="" coords="1363,335,1531,399"/>
+<area shape="rect" id="node16" href="$classstxxl_1_1onoff__switch.html" title="stxxl::onoff_switch" alt="" coords="1041,213,1172,243"/>
+<area shape="rect" id="node19" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="699,147,792,176"/>
+<area shape="rect" id="node22" href="$classstxxl_1_1condition__variable.html" title="stxxl::condition_variable" alt="" coords="664,200,827,229"/>
+<area shape="rect" id="node34" href="$classstxxl_1_1loser__tree.html" title="stxxl::loser_tree\&lt;\l run_cursor_type, run\l_cursor_cmp_type \&gt;" alt="" coords="852,543,996,607"/>
+<area shape="rect" id="node38" href="$classstxxl_1_1stream_1_1basic__runs__merger.html" title="Merges sorted runs. " alt="" coords="1676,419,1873,483"/>
+<area shape="rect" id="node49" href="$classstxxl_1_1stream_1_1basic__runs__creator.html" title="stxxl::stream::basic\l_runs_creator\&lt; stream\l::use_push\&lt; ValueType\l \&gt;, cmp_type, BlockSize\l_, alloc_strategy_type \&gt;" alt="" coords="2149,865,2315,964"/>
+<area shape="rect" id="node54" href="$structstxxl_1_1stream_1_1sorted__runs.html" title="All sorted runs of a sort operation. " alt="" coords="1021,875,1192,939"/>
+<area shape="rect" id="node66" href="$classstxxl_1_1stream_1_1basic__runs__creator.html" title="Forms sorted runs of data from a stream. " alt="" coords="1679,962,1871,1043"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1stream_1_1runs__merger.html" title="stxxl::stream::runs\l_merger\&lt; typename runs\l_creator_type::sorted\l_runs_type, cmp_type, alloc\l_strategy_type \&gt;" alt="" coords="2584,415,2771,513"/>
+<area shape="rect" id="node12" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="339,807,499,854"/>
+<area shape="rect" id="node57" href="$classstxxl_1_1counted__object.html" title="Provides reference counting abilities for use with counting_ptr. " alt="" coords="672,964,819,993"/>
+<area shape="rect" id="node14" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="5,807,165,854"/>
+<area shape="rect" id="node25" href="$classstxxl_1_1counting__ptr.html" title="High&#45;performance smart pointer used as a wrapping reference counting pointer. " alt="" coords="1043,439,1171,486"/>
+<area shape="rect" id="node52" href="$classstxxl_1_1counting__ptr.html" title="stxxl::counting_ptr\l\&lt; sorted_runs_data_type \&gt;" alt="" coords="1357,897,1536,943"/>
+<area shape="rect" id="node27" href="$classstxxl_1_1completion__handler.html" title="Completion handler class (Loki&#45;style). " alt="" coords="1021,35,1192,64"/>
+<area shape="rect" id="node29" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; stxxl::completion\l_handler_impl \&gt;" alt="" coords="668,8,823,72"/>
+<area shape="rect" id="node31" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; _Tp \&gt;" alt="" coords="345,17,492,63"/>
+<area shape="rect" id="node44" href="$classstxxl_1_1stream_1_1runs__merger.html" title="Merges sorted runs. " alt="" coords="2139,343,2325,407"/>
+<area shape="rect" id="node47" href="$classstxxl_1_1stream_1_1runs__creator.html" title="stxxl::stream::runs\l_creator\&lt; stream::use\l_push\&lt; ValueType \&gt;, cmp\l_type, block_size, alloc\l_strategy_type \&gt;" alt="" coords="2589,865,2765,964"/>
+<area shape="rect" id="node62" href="$structstxxl_1_1stream_1_1use__push.html" title="stxxl::stream::use\l_push\&lt; ValueType \&gt;" alt="" coords="1704,827,1845,874"/>
+<area shape="rect" id="node64" href="$structstxxl_1_1stream_1_1use__push.html" title="Input strategy for runs_creator class. " alt="" coords="1372,827,1521,874"/>
+<area shape="rect" id="node71" href="$classstxxl_1_1stream_1_1runs__creator.html" title="Forms sorted runs of data from a stream. " alt="" coords="2129,1040,2335,1104"/>
+</map>

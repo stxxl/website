@@ -1,0 +1,7 @@
+<map id="Containers" name="Containers">
+<area shape="rect" id="node2" href="$group__matrix.html" title="Efficient external memory matrix operations. " alt="" coords="308,5,367,35"/>
+<area shape="rect" id="node3" href="$group__stlcont__stack.html" title="External stack implementations. " alt="" coords="311,59,364,88"/>
+<area shape="rect" id="node5" href="$group__stlcont__vector.html" title="Vector and support classes. " alt="" coords="308,112,367,141"/>
+<area shape="rect" id="node6" href="$group__stlcontinternals.html" title="Supporting internal classes. " alt="" coords="303,165,372,195"/>
+<area shape="rect" id="node4" href="$group__stllayer.html" title="Layer which groups STL compatible algorithms and containers. " alt="" coords="5,85,120,115"/>
+</map>

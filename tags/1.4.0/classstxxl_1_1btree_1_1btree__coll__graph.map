@@ -1,0 +1,15 @@
+<map id="stxxl::btree::btree&lt; KeyType, DataType, CompareType, RawNodeSize, RawLeafSize, PDAllocStrategy &gt;" name="stxxl::btree::btree&lt; KeyType, DataType, CompareType, RawNodeSize, RawLeafSize, PDAllocStrategy &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,183,136,212"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; block\l_manager \&gt;" alt="" coords="588,65,740,111"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; INSTANCE,\l destroy_on_exit \&gt;" alt="" coords="187,93,381,139"/>
+<area shape="rect" id="node12" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="627,140,701,169"/>
+<area shape="rect" id="node15" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="237,213,331,243"/>
+<area shape="rect" id="node18" href="$classstxxl_1_1disk__allocator.html" title="stxxl::disk_allocator" alt="" coords="912,200,1051,229"/>
+<area shape="rect" id="node32" href="$classstxxl_1_1btree_1_1iterator__map.html" title="stxxl::btree::iterator\l_map\&lt; SelfType \&gt;" alt="" coords="597,322,731,369"/>
+<area shape="rect" id="node35" href="$classstxxl_1_1btree_1_1iterator__map.html" title="stxxl::btree::iterator\l_map\&lt; BTreeType \&gt;" alt="" coords="213,373,355,419"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1block__manager.html" title="Block manager class. " alt="" coords="1213,152,1360,181"/>
+<area shape="rect" id="node23" href="$classstxxl_1_1btree_1_1btree__iterator.html" title="stxxl::btree::btree\l_iterator\&lt; SelfType \&gt;" alt="" coords="1215,355,1359,402"/>
+<area shape="rect" id="node25" href="$classstxxl_1_1btree_1_1btree__iterator__base.html" title="stxxl::btree::btree\l_iterator_base\&lt; SelfType \&gt;" alt="" coords="892,355,1071,402"/>
+<area shape="rect" id="node27" href="$classstxxl_1_1btree_1_1btree__iterator__base.html" title="stxxl::btree::btree\l_iterator_base\&lt; BTreeType \&gt;" alt="" coords="568,402,760,449"/>
+<area shape="rect" id="node29" href="$classstxxl_1_1btree_1_1btree__iterator.html" title="stxxl::btree::btree\l_iterator\&lt; BTreeType \&gt;" alt="" coords="903,425,1060,471"/>
+</map>

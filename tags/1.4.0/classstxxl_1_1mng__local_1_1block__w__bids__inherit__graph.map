@@ -1,0 +1,11 @@
+<map id="stxxl::mng_local::block_w_bids&lt; Type, Size, RawSize, NBids &gt;" name="stxxl::mng_local::block_w_bids&lt; Type, Size, RawSize, NBids &gt;">
+<area shape="rect" id="node5" href="$classstxxl_1_1mng__local_1_1block__w__bids.html" title="stxxl::mng_local::block\l_w_bids\&lt; Type,((RawSize\l&#45;sizeof(BID\&lt; RawSize \&gt;)*NBids)\l/sizeof(Type)), RawSize, NBids \&gt;" alt="" coords="640,22,859,103"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1mng__local_1_1block__w__bids.html" title="stxxl::mng_local::block\l_w_bids\&lt; Type,((RawSize\l&#45;sizeof(BID\&lt; RawSize \&gt;)*NBids\l&#45;sizeof(MetaInfoType))/sizeof\l(Type)), RawSize, NBids \&gt;" alt="" coords="644,131,855,229"/>
+<area shape="rect" id="node2" href="$classstxxl_1_1mng__local_1_1element__block.html" title="Contains data elements for stxxl::typed_block , not intended for direct use. " alt="" coords="5,98,176,145"/>
+<area shape="rect" id="node7" href="$classstxxl_1_1mng__local_1_1block__w__info_3_01Type_00_01RawSize_00_01NBids_00_01void_01_4.html" title="stxxl::mng_local::block\l_w_info\&lt; Type, RawSize,\l NBids, void \&gt;" alt="" coords="909,31,1083,95"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1mng__local_1_1block__w__info.html" title="stxxl::mng_local::block\l_w_info\&lt; Type, RawSize,\l NRef, MetaInfoType \&gt;" alt="" coords="1280,155,1453,219"/>
+<area shape="rect" id="node19" href="$classstxxl_1_1mng__local_1_1block__w__info.html" title="Contains per block information for stxxl::typed_block , not intended for direct use. " alt="" coords="909,193,1083,257"/>
+<area shape="rect" id="node13" href="$classstxxl_1_1mng__local_1_1add__filler.html" title="stxxl::mng_local::add\l_filler\&lt; mng_local::block\l_w_info\&lt; Type, RawSize,\l NRef, MetaInfoType \&gt;, RawSize\l&#45;sizeof(mng_local::block_w_info\l\&lt; Type, RawSize, NRef, MetaInfoType \&gt;)\&gt;" alt="" coords="1504,129,1779,245"/>
+<area shape="rect" id="node15" href="$classstxxl_1_1mng__local_1_1expand__struct.html" title="stxxl::mng_local::expand\l_struct\&lt; mng_local::block\l_w_info\&lt; Type, RawSize, NRef,\l MetaInfoType \&gt;, RawSize \&gt;" alt="" coords="1831,146,2041,227"/>
+<area shape="rect" id="node17" href="$classstxxl_1_1typed__block.html" title="Block containing elements of fixed length. " alt="" coords="2095,155,2260,219"/>
+</map>

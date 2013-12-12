@@ -1,0 +1,8 @@
+<map id="stxxl::cmdline_parser::argument" name="stxxl::cmdline_parser::argument">
+<area shape="rect" id="node3" href="$structstxxl_1_1cmdline__parser_1_1argument__bytes.html" title="specialization of argument for SI/IEC suffixes byte size options or parameters " alt="" coords="200,5,347,51"/>
+<area shape="rect" id="node5" href="$structstxxl_1_1cmdline__parser_1_1argument__flag.html" title="specialization of argument for boolean flags (can only be set to true). " alt="" coords="200,74,347,121"/>
+<area shape="rect" id="node7" href="$structstxxl_1_1cmdline__parser_1_1argument__int.html" title="specialization of argument for integer options or parameters " alt="" coords="200,143,347,190"/>
+<area shape="rect" id="node9" href="$structstxxl_1_1cmdline__parser_1_1argument__string.html" title="specialization of argument for string options or parameters " alt="" coords="200,213,347,259"/>
+<area shape="rect" id="node11" href="$structstxxl_1_1cmdline__parser_1_1argument__stringlist.html" title="specialization of argument for multiple string options or parameters " alt="" coords="200,282,347,329"/>
+<area shape="rect" id="node13" href="$structstxxl_1_1cmdline__parser_1_1argument__uint.html" title="specialization of argument for unsigned integer options or parameters " alt="" coords="200,351,347,398"/>
+</map>

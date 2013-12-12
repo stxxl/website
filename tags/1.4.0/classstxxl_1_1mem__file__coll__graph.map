@@ -1,0 +1,6 @@
+<map id="stxxl::mem_file" name="stxxl::mem_file">
+<area shape="rect" id="node2" href="$classstxxl_1_1disk__queued__file.html" title="Implementation of some file methods based on serving_request. " alt="" coords="40,277,195,307"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="48,181,123,211"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,5,136,35"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="79,85,172,115"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="stxxl::mng_local::block_w_info&lt; Type, RawSize, NBids, MetaInfoType &gt;" name="stxxl::mng_local::block_w_info&lt; Type, RawSize, NBids, MetaInfoType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1mng__local_1_1block__w__bids.html" title="stxxl::mng_local::block\l_w_bids\&lt; Type,((RawSize\l&#45;sizeof(BID\&lt; RawSize \&gt;)*NBids\l&#45;sizeof(MetaInfoType))/sizeof\l(Type)), RawSize, NBids \&gt;" alt="" coords="1555,79,1765,177"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1mng__local_1_1element__block.html" title="Contains data elements for stxxl::typed_block , not intended for direct use. " alt="" coords="907,9,1077,55"/>
+<area shape="rect" id="node18" href="$classstxxl_1_1mng__local_1_1block__w__bids.html" title="Contains BID references for stxxl::typed_block , not intended for direct use. " alt="" coords="1147,67,1357,131"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1BID.html" title="stxxl::BID\&lt; raw_size \&gt;" alt="" coords="913,136,1071,165"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="469,131,544,160"/>
+<area shape="rect" id="node15" href="$structstxxl_1_1BID.html" title="Block identifier class. " alt="" coords="641,173,775,203"/>
+<area shape="rect" id="node10" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,129,136,159"/>
+<area shape="rect" id="node12" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="188,160,281,189"/>
+</map>

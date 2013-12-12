@@ -1,0 +1,7 @@
+<map id="stxxl::btree::normal_node&lt; KeyType_, KeyCmp_, RawSize_, BTreeType &gt;::InfoType" name="stxxl::btree::normal_node&lt; KeyType_, KeyCmp_, RawSize_, BTreeType &gt;::InfoType">
+<area shape="rect" id="node2" href="$structstxxl_1_1BID.html" title="stxxl::BID\&lt; raw_size \&gt;" alt="" coords="20,373,177,403"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="37,181,112,211"/>
+<area shape="rect" id="node11" href="$structstxxl_1_1BID.html" title="Block identifier class. " alt="" coords="125,277,259,307"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="17,5,148,35"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="91,85,184,115"/>
+</map>

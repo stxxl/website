@@ -1,0 +1,13 @@
+<map id="stxxl::request" name="stxxl::request">
+<area shape="rect" id="node2" href="$classstxxl_1_1request__interface.html" title="Functional interface of a request. " alt="" coords="524,5,681,35"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="20,48,151,77"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="372,100,465,129"/>
+<area shape="rect" id="node15" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="755,85,829,115"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1atomic__counted__object.html" title="Provides reference counting abilities for use with counting_ptr with mutex locking. " alt="" coords="717,146,867,193"/>
+<area shape="rect" id="node11" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="339,171,499,218"/>
+<area shape="rect" id="node13" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="5,170,165,217"/>
+<area shape="rect" id="node19" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; stxxl::stxxl::io\l_error \&gt;" alt="" coords="529,227,676,291"/>
+<area shape="rect" id="node21" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; _Tp \&gt;" alt="" coords="12,270,159,317"/>
+<area shape="rect" id="node25" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; stxxl::completion\l_handler_impl \&gt;" alt="" coords="341,296,496,360"/>
+<area shape="rect" id="node23" href="$classstxxl_1_1completion__handler.html" title="Completion handler class (Loki&#45;style). " alt="" coords="707,307,877,336"/>
+</map>

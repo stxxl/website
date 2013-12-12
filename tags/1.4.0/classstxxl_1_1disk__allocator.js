@@ -1,0 +1,25 @@
+var classstxxl_1_1disk__allocator =
+[
+    [ "first_fit", "structstxxl_1_1disk__allocator_1_1first__fit.html", "structstxxl_1_1disk__allocator_1_1first__fit" ],
+    [ "place", "classstxxl_1_1disk__allocator.html#a384c100aface9ab085f43b567523ad63", null ],
+    [ "sortseq", "classstxxl_1_1disk__allocator.html#a31b92436496bd2943a2ad4c061320757", null ],
+    [ "disk_allocator", "classstxxl_1_1disk__allocator.html#a53978b5ed48c758c322b02bf84340faa", null ],
+    [ "~disk_allocator", "classstxxl_1_1disk__allocator.html#a2a0ae4a2e767e4dc371f9d8027dbd373", null ],
+    [ "add_free_region", "classstxxl_1_1disk__allocator.html#a6c20214118fba1fda6f2861637f9d60d", null ],
+    [ "deallocation_error", "classstxxl_1_1disk__allocator.html#a4941d551863a077098ffa17f46357ec6", null ],
+    [ "delete_block", "classstxxl_1_1disk__allocator.html#a159f70d3edd4a5b03f3970cdde7c929a", null ],
+    [ "dump", "classstxxl_1_1disk__allocator.html#a72867f0256076d490198c3ec532788ab", null ],
+    [ "get_free_bytes", "classstxxl_1_1disk__allocator.html#a21dc406d1bc7da74fa4608bb0919a7d2", null ],
+    [ "get_total_bytes", "classstxxl_1_1disk__allocator.html#aa0f5ec2f70ad93b6d56e2b74f9cc37b3", null ],
+    [ "get_used_bytes", "classstxxl_1_1disk__allocator.html#a28c2876e4de73317b08a6e9bf54d9c6c", null ],
+    [ "grow_file", "classstxxl_1_1disk__allocator.html#acfec52c557d4162e59a8b0793fb123a8", null ],
+    [ "new_blocks", "classstxxl_1_1disk__allocator.html#af8f90e75281f9c56e5ab9412e5a16fc9", null ],
+    [ "new_blocks", "classstxxl_1_1disk__allocator.html#a971ef7f1da7d5d27cfc873fb58d8aee7", null ],
+    [ "autogrow", "classstxxl_1_1disk__allocator.html#af9cfe2d5f15c778c6d6bb700c9e52464", null ],
+    [ "cfg_bytes", "classstxxl_1_1disk__allocator.html#a6a173422ac1012a67934ba0e01814466", null ],
+    [ "disk_bytes", "classstxxl_1_1disk__allocator.html#a58e81c27703f664a393e42014d222c37", null ],
+    [ "free_bytes", "classstxxl_1_1disk__allocator.html#a97c60d5b30fc7ce464fab175634b8c7e", null ],
+    [ "free_space", "classstxxl_1_1disk__allocator.html#a8a5d9722a9311937cca14cc50fd20d51", null ],
+    [ "mutex", "classstxxl_1_1disk__allocator.html#a363eb484b65aef0c9675d81ab7727c8e", null ],
+    [ "storage", "classstxxl_1_1disk__allocator.html#a23f1126ade819fe1ec99f1992a02208c", null ]
+];

@@ -1,0 +1,5 @@
+var structstxxl_1_1priority__queue__local_1_1find__B__m_3_01E___00_01IntMem_00_01MaxItems_00_012048_00_011_00_01stop_01_4 =
+[
+    [ "result", "structstxxl_1_1priority__queue__local_1_1find__B__m_3_01E___00_01IntMem_00_01MaxItems_00_012048_00_011_00_01stop_01_4.html#a9c16f23c232dcebaa70ac8596752563d", null ],
+    [ "fits", "structstxxl_1_1priority__queue__local_1_1find__B__m_3_01E___00_01IntMem_00_01MaxItems_00_012048_00_011_00_01stop_01_4.html#a77044a700ebc779556c412310b711c64a2ca37298ae3062c39c5375c27031d84c", null ]
+];

@@ -1,0 +1,7 @@
+<map id="stxxl::priority_queue_local::loser_tree&lt; ValTp_, Cmp_, KNKMAX &gt;" name="stxxl::priority_queue_local::loser_tree&lt; ValTp_, Cmp_, KNKMAX &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="463,5,593,35"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1priority__queue__local_1_1internal__bounded__stack.html" title="stxxl::priority_queue\l_local::internal_bounded\l_stack\&lt; unsigned_type, KNKMAX \&gt;" alt="" coords="411,59,645,123"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1priority__queue__local_1_1internal__bounded__stack.html" title="Similar to std::stack, with the following differences: " alt="" coords="5,59,184,123"/>
+<area shape="rect" id="node8" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="448,167,608,214"/>
+<area shape="rect" id="node10" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="15,167,175,214"/>
+</map>

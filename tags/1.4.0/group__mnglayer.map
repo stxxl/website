@@ -1,0 +1,5 @@
+<map id="Block Management Layer" name="Block Management Layer">
+<area shape="rect" id="node1" href="$group__mnglayer__internals.html" title="Internals and support classes. " alt="" coords="277,5,349,35"/>
+<area shape="rect" id="node2" href="$group__schedlayer.html" title="Group of classes which help in scheduling sequences of read and write requests via prefetching and bu..." alt="" coords="224,59,403,88"/>
+<area shape="rect" id="node4" href="$group__alloc.html" title="Standard allocation strategies encapsulated in functors. " alt="" coords="247,112,380,141"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="stxxl::priority_queue_local::ext_merger&lt; BlockType_, Cmp_, Arity_, AllocStr_ &gt;" name="stxxl::priority_queue_local::ext_merger&lt; BlockType_, Cmp_, Arity_, AllocStr_ &gt;">
+<area shape="rect" id="node26" href="$structstxxl_1_1priority__queue__local_1_1ext__merger_1_1sequence__state.html" title="stxxl::priority_queue\l_local::ext_merger\&lt; BlockType\l_, Cmp_, Arity_, AllocStr\l_ \&gt;::sequence_state" alt="" coords="1701,271,1904,353"/>
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="393,275,524,304"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1read__write__pool.html" title="Implements dynamically resizable buffered writing and prefetched reading pool. " alt="" coords="1091,235,1240,282"/>
+<area shape="rect" id="node7" href="$classstxxl_1_1prefetch__pool.html" title="Implements dynamically resizable prefetching pool. " alt="" coords="712,146,848,193"/>
+<area shape="rect" id="node18" href="$classstxxl_1_1write__pool.html" title="Implements dynamically resizable buffered writing pool. " alt="" coords="717,266,843,313"/>
+<area shape="rect" id="node10" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="379,61,539,107"/>
+<area shape="rect" id="node12" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="17,61,177,107"/>
+<area shape="rect" id="node14" href="$structstxxl_1_1compat__hash__map.html" title="stxxl::compat_hash\l_map\&lt; bid_type, busy\l_entry, bid_hash \&gt;" alt="" coords="384,137,533,201"/>
+<area shape="rect" id="node16" href="$structstxxl_1_1compat__hash__map.html" title="stxxl::compat_hash\l_map\&lt; _Key, _Tp, _Hash \&gt;" alt="" coords="5,146,189,193"/>
+<area shape="rect" id="node21" href="$classstxxl_1_1priority__queue__local_1_1internal__bounded__stack.html" title="stxxl::priority_queue\l_local::internal_bounded\l_stack\&lt; unsigned_type, arity \&gt;" alt="" coords="1064,321,1267,385"/>
+<area shape="rect" id="node23" href="$classstxxl_1_1priority__queue__local_1_1internal__bounded__stack.html" title="Similar to std::stack, with the following differences: " alt="" coords="691,336,869,400"/>
+</map>

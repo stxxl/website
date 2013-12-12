@@ -1,0 +1,14 @@
+<map id="stxxl::matrix_local::matrix_operations&lt; ValueType, BlockSideLength &gt;::swappable_block_matrix_approximative_quarterer" name="stxxl::matrix_local::matrix_operations&lt; ValueType, BlockSideLength &gt;::swappable_block_matrix_approximative_quarterer">
+<area shape="rect" id="node2" href="$classstxxl_1_1swappable__block__matrix.html" title="External container for a (sub)matrix. Not intended for direct use. " alt="" coords="1719,107,1924,171"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1atomic__counted__object.html" title="Provides reference counting abilities for use with counting_ptr with mutex locking. " alt="" coords="1489,75,1639,122"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="237,160,331,189"/>
+<area shape="rect" id="node25" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="608,149,683,179"/>
+<area shape="rect" id="node29" href="$classstxxl_1_1disk__allocator.html" title="stxxl::disk_allocator" alt="" coords="829,215,968,244"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,300,136,329"/>
+<area shape="rect" id="node14" href="$classstxxl_1_1block__scheduler.html" title="Schedules swapping of blocks and provides blocks for temporary storage. " alt="" coords="1479,169,1649,215"/>
+<area shape="rect" id="node19" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; block\l_manager \&gt;" alt="" coords="569,326,721,373"/>
+<area shape="rect" id="node22" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; INSTANCE,\l destroy_on_exit \&gt;" alt="" coords="187,377,381,423"/>
+<area shape="rect" id="node10" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="1152,75,1312,122"/>
+<area shape="rect" id="node12" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="819,70,979,117"/>
+<area shape="rect" id="node17" href="$classstxxl_1_1block__manager.html" title="Block manager class. " alt="" coords="1159,203,1305,232"/>
+</map>

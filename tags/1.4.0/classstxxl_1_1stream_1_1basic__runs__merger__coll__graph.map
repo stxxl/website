@@ -1,0 +1,14 @@
+<map id="stxxl::stream::basic_runs_merger&lt; RunsType_, CompareType_, AllocStr_ &gt;" name="stxxl::stream::basic_runs_merger&lt; RunsType_, CompareType_, AllocStr_ &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="13,244,144,273"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1block__prefetcher.html" title="Encapsulates asynchronous prefetching engine. " alt="" coords="961,251,1129,315"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1onoff__switch.html" title="stxxl::onoff_switch" alt="" coords="673,348,804,377"/>
+<area shape="rect" id="node14" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="352,279,445,308"/>
+<area shape="rect" id="node17" href="$classstxxl_1_1condition__variable.html" title="stxxl::condition_variable" alt="" coords="317,332,480,361"/>
+<area shape="rect" id="node29" href="$classstxxl_1_1loser__tree.html" title="stxxl::loser_tree\&lt;\l run_cursor_type, run\l_cursor_cmp_type \&gt;" alt="" coords="973,43,1117,107"/>
+<area shape="rect" id="node7" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="659,125,819,171"/>
+<area shape="rect" id="node9" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="319,125,479,171"/>
+<area shape="rect" id="node20" href="$classstxxl_1_1counting__ptr.html" title="High&#45;performance smart pointer used as a wrapping reference counting pointer. " alt="" coords="675,278,803,325"/>
+<area shape="rect" id="node22" href="$classstxxl_1_1completion__handler.html" title="Completion handler class (Loki&#45;style). " alt="" coords="653,420,824,449"/>
+<area shape="rect" id="node24" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; stxxl::completion\l_handler_impl \&gt;" alt="" coords="321,436,476,500"/>
+<area shape="rect" id="node26" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; _Tp \&gt;" alt="" coords="5,445,152,491"/>
+</map>

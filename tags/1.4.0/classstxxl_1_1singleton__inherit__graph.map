@@ -1,0 +1,15 @@
+<map id="stxxl::singleton&lt; INSTANCE, destroy_on_exit &gt;" name="stxxl::singleton&lt; INSTANCE, destroy_on_exit &gt;">
+<area shape="rect" id="node5" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; config \&gt;" alt="" coords="548,5,716,35"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; logger \&gt;" alt="" coords="548,59,716,88"/>
+<area shape="rect" id="node13" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; stats \&gt;" alt="" coords="551,112,713,141"/>
+<area shape="rect" id="node17" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; block\l_manager \&gt;" alt="" coords="556,165,708,211"/>
+<area shape="rect" id="node21" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; matrix\l_operation_statistic \&gt;" alt="" coords="553,234,711,281"/>
+<area shape="rect" id="node25" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; disk\l_queues \&gt;" alt="" coords="559,303,705,350"/>
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,147,136,176"/>
+<area shape="rect" id="node7" href="$classstxxl_1_1config.html" title="Access point to disks properties. Since 1.4.0: no config files are read automatically! ..." alt="" coords="799,5,892,35"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1logger.html" title="stxxl::logger" alt="" coords="799,59,892,88"/>
+<area shape="rect" id="node15" href="$classstxxl_1_1stats.html" title="Collects various I/O statistics. " alt="" coords="803,112,888,141"/>
+<area shape="rect" id="node19" href="$classstxxl_1_1block__manager.html" title="Block manager class. " alt="" coords="772,173,919,203"/>
+<area shape="rect" id="node23" href="$structstxxl_1_1matrix__operation__statistic.html" title="stxxl::matrix_operation\l_statistic" alt="" coords="768,234,923,281"/>
+<area shape="rect" id="node27" href="$classstxxl_1_1disk__queues.html" title="Encapsulates disk queues. " alt="" coords="780,312,911,341"/>
+</map>

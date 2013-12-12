@@ -1,0 +1,5 @@
+<map id="stxxl::mng_local::block_w_info&lt; Type, RawSize, NBids, void &gt;" name="stxxl::mng_local::block_w_info&lt; Type, RawSize, NBids, void &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1mng__local_1_1block__w__bids.html" title="stxxl::mng_local::block\l_w_bids\&lt; Type,((RawSize\l&#45;sizeof(BID\&lt; RawSize \&gt;)*NBids)\l/sizeof(Type)), RawSize, NBids \&gt;" alt="" coords="640,5,859,86"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1mng__local_1_1element__block.html" title="Contains data elements for stxxl::typed_block , not intended for direct use. " alt="" coords="5,5,176,51"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1mng__local_1_1block__w__bids.html" title="Contains BID references for stxxl::typed_block , not intended for direct use. " alt="" coords="227,47,437,111"/>
+</map>

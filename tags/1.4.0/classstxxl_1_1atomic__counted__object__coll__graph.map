@@ -1,0 +1,6 @@
+<map id="stxxl::atomic_counted_object" name="stxxl::atomic_counted_object">
+<area shape="rect" id="node2" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="24,129,117,159"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,15,136,44"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="180,121,340,167"/>
+<area shape="rect" id="node8" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="180,6,340,53"/>
+</map>

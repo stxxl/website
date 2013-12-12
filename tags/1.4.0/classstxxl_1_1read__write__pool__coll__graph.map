@@ -1,0 +1,9 @@
+<map id="stxxl::read_write_pool&lt; BlockType &gt;" name="stxxl::read_write_pool&lt; BlockType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="393,73,524,103"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1prefetch__pool.html" title="Implements dynamically resizable prefetching pool. " alt="" coords="691,130,827,177"/>
+<area shape="rect" id="node15" href="$classstxxl_1_1write__pool.html" title="Implements dynamically resizable buffered writing pool. " alt="" coords="696,5,821,51"/>
+<area shape="rect" id="node7" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="379,130,539,177"/>
+<area shape="rect" id="node9" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="17,130,177,177"/>
+<area shape="rect" id="node11" href="$structstxxl_1_1compat__hash__map.html" title="stxxl::compat_hash\l_map\&lt; bid_type, busy\l_entry, bid_hash \&gt;" alt="" coords="384,200,533,264"/>
+<area shape="rect" id="node13" href="$structstxxl_1_1compat__hash__map.html" title="stxxl::compat_hash\l_map\&lt; _Key, _Tp, _Hash \&gt;" alt="" coords="5,209,189,255"/>
+</map>

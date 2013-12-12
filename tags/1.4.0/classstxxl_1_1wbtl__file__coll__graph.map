@@ -1,0 +1,17 @@
+<map id="stxxl::wbtl_file" name="stxxl::wbtl_file">
+<area shape="rect" id="node2" href="$classstxxl_1_1disk__queued__file.html" title="Implementation of some file methods based on serving_request. " alt="" coords="1160,137,1315,167"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="755,137,829,167"/>
+<area shape="rect" id="node15" href="$classstxxl_1_1request.html" title="Request with basic properties like file and offset. " alt="" coords="1020,268,1121,297"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="20,161,151,191"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="372,89,465,119"/>
+<area shape="rect" id="node17" href="$classstxxl_1_1request__interface.html" title="Functional interface of a request. " alt="" coords="524,212,681,241"/>
+<area shape="rect" id="node20" href="$classstxxl_1_1atomic__counted__object.html" title="Provides reference counting abilities for use with counting_ptr with mutex locking. " alt="" coords="717,263,867,310"/>
+<area shape="rect" id="node13" href="$classstxxl_1_1counting__ptr.html" title="stxxl::counting_ptr\l\&lt; request \&gt;" alt="" coords="1340,191,1468,238"/>
+<area shape="rect" id="node23" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="339,263,499,310"/>
+<area shape="rect" id="node25" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="5,262,165,309"/>
+<area shape="rect" id="node28" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; stxxl::stxxl::io\l_error \&gt;" alt="" coords="529,319,676,383"/>
+<area shape="rect" id="node30" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; _Tp \&gt;" alt="" coords="12,362,159,409"/>
+<area shape="rect" id="node34" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; stxxl::completion\l_handler_impl \&gt;" alt="" coords="341,388,496,452"/>
+<area shape="rect" id="node32" href="$classstxxl_1_1completion__handler.html" title="Completion handler class (Loki&#45;style). " alt="" coords="707,401,877,431"/>
+<area shape="rect" id="node37" href="$classstxxl_1_1counting__ptr.html" title="High&#45;performance smart pointer used as a wrapping reference counting pointer. " alt="" coords="1007,191,1135,238"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="stxxl::block_scheduler&lt; SwappableBlockType &gt;" name="stxxl::block_scheduler&lt; SwappableBlockType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,139,136,168"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; block\l_manager \&gt;" alt="" coords="569,93,721,139"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; INSTANCE,\l destroy_on_exit \&gt;" alt="" coords="187,93,381,139"/>
+<area shape="rect" id="node12" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="608,175,683,204"/>
+<area shape="rect" id="node15" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="237,213,331,243"/>
+<area shape="rect" id="node18" href="$classstxxl_1_1disk__allocator.html" title="stxxl::disk_allocator" alt="" coords="829,220,968,249"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1block__manager.html" title="Block manager class. " alt="" coords="1159,157,1305,187"/>
+<area shape="rect" id="node23" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="1152,258,1312,305"/>
+<area shape="rect" id="node25" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="819,273,979,319"/>
+</map>

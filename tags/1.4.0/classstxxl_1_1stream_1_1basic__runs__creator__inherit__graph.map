@@ -1,0 +1,6 @@
+<map id="stxxl::stream::basic_runs_creator&lt; Input_, CompareType_, BlockSize_, AllocStr_ &gt;" name="stxxl::stream::basic_runs_creator&lt; Input_, CompareType_, BlockSize_, AllocStr_ &gt;">
+<area shape="rect" id="node5" href="$classstxxl_1_1stream_1_1runs__creator.html" title="Forms sorted runs of data from a stream. " alt="" coords="636,11,841,75"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1stream_1_1basic__runs__creator.html" title="stxxl::stream::basic\l_runs_creator\&lt; stream\l::use_push\&lt; ValueType\l \&gt;, cmp_type, BlockSize\l_, alloc_strategy_type \&gt;" alt="" coords="656,99,821,197"/>
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,89,136,119"/>
+<area shape="rect" id="node7" href="$classstxxl_1_1stream_1_1runs__creator.html" title="stxxl::stream::runs\l_creator\&lt; stream::use\l_push\&lt; ValueType \&gt;, cmp\l_type, block_size, alloc\l_strategy_type \&gt;" alt="" coords="1091,39,1267,137"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="stxxl::runs2bid_array_adaptor&lt; _blk_sz, _run_type, __pos_type &gt;" name="stxxl::runs2bid_array_adaptor&lt; _blk_sz, _run_type, __pos_type &gt;">
+<area shape="rect" id="node2" href="$structstxxl_1_1two2one__dim__array__adapter__base.html" title="stxxl::two2one_dim\l_array_adapter_base\l\&lt; _run_type *, BID\&lt; \l_blk_sz \&gt;, __pos_type \&gt;" alt="" coords="372,5,537,86"/>
+<area shape="rect" id="node4" href="$structstxxl_1_1two2one__dim__array__adapter__base.html" title="stxxl::two2one_dim\l_array_adapter_base\l\&lt; one_dim_array_type,\l data_type, pos_type \&gt;" alt="" coords="8,5,163,86"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="375,109,535,155"/>
+<area shape="rect" id="node8" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="5,109,165,155"/>
+</map>

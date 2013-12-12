@@ -1,0 +1,13 @@
+<map id="stxxl::buf_istream&lt; BlockType, BIDIteratorType &gt;" name="stxxl::buf_istream&lt; BlockType, BIDIteratorType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="13,261,144,291"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1block__prefetcher.html" title="Encapsulates asynchronous prefetching engine. " alt="" coords="961,169,1129,233"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1onoff__switch.html" title="stxxl::onoff_switch" alt="" coords="673,289,804,319"/>
+<area shape="rect" id="node14" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="352,261,445,291"/>
+<area shape="rect" id="node17" href="$classstxxl_1_1condition__variable.html" title="stxxl::condition_variable" alt="" coords="317,315,480,344"/>
+<area shape="rect" id="node7" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="659,57,819,103"/>
+<area shape="rect" id="node9" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="319,57,479,103"/>
+<area shape="rect" id="node20" href="$classstxxl_1_1counting__ptr.html" title="High&#45;performance smart pointer used as a wrapping reference counting pointer. " alt="" coords="675,141,803,187"/>
+<area shape="rect" id="node22" href="$classstxxl_1_1completion__handler.html" title="Completion handler class (Loki&#45;style). " alt="" coords="653,369,824,399"/>
+<area shape="rect" id="node24" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; stxxl::completion\l_handler_impl \&gt;" alt="" coords="321,419,476,483"/>
+<area shape="rect" id="node26" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; _Tp \&gt;" alt="" coords="5,427,152,474"/>
+</map>

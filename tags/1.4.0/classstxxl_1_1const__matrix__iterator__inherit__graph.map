@@ -1,0 +1,4 @@
+<map id="stxxl::const_matrix_iterator&lt; ValueType, BlockSideLength &gt;" name="stxxl::const_matrix_iterator&lt; ValueType, BlockSideLength &gt;">
+<area shape="rect" id="node3" href="$classstxxl_1_1const__matrix__col__major__iterator.html" title="column&#45;major const_iterator that points to single elements inside a matrix " alt="" coords="201,5,415,69"/>
+<area shape="rect" id="node5" href="$classstxxl_1_1const__matrix__row__major__iterator.html" title="row&#45;major const_iterator that points to single elements inside a matrix " alt="" coords="201,93,415,157"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="stxxl::request_with_waiters" name="stxxl::request_with_waiters">
+<area shape="rect" id="node2" href="$classstxxl_1_1request__interface.html" title="Functional interface of a request. " alt="" coords="5,85,163,115"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="107,5,237,35"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="187,85,280,115"/>
+</map>

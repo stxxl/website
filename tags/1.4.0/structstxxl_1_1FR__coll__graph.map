@@ -1,0 +1,9 @@
+<map id="stxxl::FR" name="stxxl::FR">
+<area shape="rect" id="node2" href="$structstxxl_1_1striping.html" title="Striping disk allocation scheme functor. " alt="" coords="760,25,859,55"/>
+<area shape="rect" id="node4" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="355,17,515,63"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="8,17,168,63"/>
+<area shape="rect" id="node8" href="$structstxxl_1_1random__number.html" title="stxxl::random_number\l\&lt; random_uniform_fast \&gt;" alt="" coords="725,78,893,125"/>
+<area shape="rect" id="node10" href="$structstxxl_1_1random__uniform__fast.html" title="Fast uniform [0.0, 1.0) pseudo&#45;random generator. " alt="" coords="345,87,524,116"/>
+<area shape="rect" id="node12" href="$structstxxl_1_1random__number32.html" title="Fast uniform [0, 2^32) pseudo&#45;random generator with period 2^32, random bits: 32. ..." alt="" coords="5,87,171,116"/>
+<area shape="rect" id="node14" href="$structstxxl_1_1random__number.html" title="Uniform [0, N) pseudo&#45;random generator. " alt="" coords="360,139,509,186"/>
+</map>

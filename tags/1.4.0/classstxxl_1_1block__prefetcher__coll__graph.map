@@ -1,0 +1,12 @@
+<map id="stxxl::block_prefetcher&lt; block_type, bid_iterator_type &gt;" name="stxxl::block_prefetcher&lt; block_type, bid_iterator_type &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="13,16,144,46"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1onoff__switch.html" title="stxxl::onoff_switch" alt="" coords="673,51,804,80"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="352,51,445,80"/>
+<area shape="rect" id="node14" href="$classstxxl_1_1condition__variable.html" title="stxxl::condition_variable" alt="" coords="317,104,480,134"/>
+<area shape="rect" id="node4" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="659,114,819,161"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="319,157,479,204"/>
+<area shape="rect" id="node17" href="$classstxxl_1_1counting__ptr.html" title="High&#45;performance smart pointer used as a wrapping reference counting pointer. " alt="" coords="675,184,803,230"/>
+<area shape="rect" id="node19" href="$classstxxl_1_1completion__handler.html" title="Completion handler class (Loki&#45;style). " alt="" coords="653,254,824,283"/>
+<area shape="rect" id="node21" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; stxxl::completion\l_handler_impl \&gt;" alt="" coords="321,236,476,300"/>
+<area shape="rect" id="node23" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; _Tp \&gt;" alt="" coords="5,245,152,292"/>
+</map>

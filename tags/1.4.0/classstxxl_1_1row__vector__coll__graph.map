@@ -1,0 +1,15 @@
+<map id="stxxl::row_vector&lt; ValueType &gt;" name="stxxl::row_vector&lt; ValueType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1vector.html" title="stxxl::vector\&lt; ValueType \&gt;" alt="" coords="1876,209,2055,239"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="608,121,683,151"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1block__manager.html" title="Block manager class. " alt="" coords="1180,220,1327,249"/>
+<area shape="rect" id="node20" href="$classstxxl_1_1disk__allocator.html" title="stxxl::disk_allocator" alt="" coords="819,220,957,249"/>
+<area shape="rect" id="node37" href="$classstxxl_1_1vector.html" title="External vector container. &#160;Introduction to vector container: see STXXL Vector tutorial. &#160;Design and Internals of vector container: see Vector. " alt="" coords="1512,148,1736,212"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,289,136,319"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="237,163,331,192"/>
+<area shape="rect" id="node13" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; block\l_manager \&gt;" alt="" coords="569,302,721,349"/>
+<area shape="rect" id="node16" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; INSTANCE,\l destroy_on_exit \&gt;" alt="" coords="187,317,381,363"/>
+<area shape="rect" id="node27" href="$classstxxl_1_1simple__vector.html" title="stxxl::simple_vector\l\&lt; stxxl::typed_block \&gt;" alt="" coords="1177,439,1329,486"/>
+<area shape="rect" id="node30" href="$classstxxl_1_1simple__vector.html" title="Simpler non&#45;growing vector without initialization. " alt="" coords="819,427,957,474"/>
+<area shape="rect" id="node33" href="$classstxxl_1_1simple__vector.html" title="stxxl::simple_vector\l\&lt; int_type \&gt;" alt="" coords="1184,359,1323,406"/>
+<area shape="rect" id="node25" href="$classstxxl_1_1vector_1_1bid__vector.html" title="stxxl::vector\&lt; ValueType,\l PageSize, PagerType, BlockSize,\l AllocStr, SizeType \&gt;::bid_vector" alt="" coords="1141,71,1365,135"/>
+</map>
