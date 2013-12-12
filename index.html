@@ -63,55 +63,48 @@
     <table>
       <tr>
         <td></td>
-        <td><b>Current Stable Version </b></td>
-        <td><b>Development 1.3</b></td>
-        <td><b>Development 1.4</b></td>
+        <td style="padding-right: 2em"><b>Current Stable</b></td>
+        <td style="padding-right: 2em"><b>Previous Stable</b></td>
+        <td><b>Development</b></td>
       </tr>
       <tr>
         <td>
           <ul><li>Documentation:</li></ul>
         </td>
-        <td><img class="ficon" src="filelink-doc.png" width="13" height="17" alt="Download" /> [<a href="tags/1.3.1/">1.3.1</a>]</td>
-        <td><img class="ficon" src="filelink-doc.png" width="13" height="17" alt="Download" /> [<a href="tags/1.3/">1.3-dev</a>]</td>
-        <td><img class="ficon" src="filelink-doc.png" width="13" height="17" alt="Download" /> [<a href="tags/master/">1.4-dev</a>]</td>
+        <td><img class="ficon" src="filelink-doc.png" width="13" height="17" alt="Doxygen" /> [<a href="tags/1.4.0/">1.4.0</a>]</td>
+        <td><img class="ficon" src="filelink-doc.png" width="13" height="17" alt="Doxygen" /> [<a href="tags/1.3.1/">1.3.1</a>]</td>
+        <td><img class="ficon" src="filelink-doc.png" width="13" height="17" alt="Doxygen" /> [<a href="tags/master/">1.4-dev</a>] <img class="ficon" src="filelink-doc.png" width="13" height="17" alt="Doxygen" /> [<a href="tags/1.3/">1.3-dev</a>]</td>
       </tr>
       <tr>
         <td>
           <ul><li>Download: [<a href="http://sourceforge.net/projects/stxxl/">sf.net page</a>]</li></ul>
         </td>
         <td>
-          <img class="ficon" src="filelink-archive.png" width="13" height="17" alt="Download" /> [<a href="http://sourceforge.net/projects/stxxl/files/stxxl/1.3.1/">1.3.1</a>] tgz, zip
+          <img class="ficon" src="filelink-archive.png" width="13" height="17" alt="Download" /> [<a href="http://sourceforge.net/projects/stxxl/files/stxxl/1.4.0/stxxl-1.4.0.tar.gz/download">1.4.0</a>] tar.gz
         </td>
         <td>
-          svn checkout below
+          <img class="ficon" src="filelink-archive.png" width="13" height="17" alt="Download" /> [<a href="http://sourceforge.net/projects/stxxl/files/stxxl/1.3.1/stxxl-1.3.1.tar.gz/download">1.3.1</a>] tar.gz
         </td>
-        <td>
-          git clone below
-        </td>
+        <td></td>
       </tr>
       <tr>
         <td>
-          <ul><li>Repository:<br/>
-              https://svn.code.sf.net/p/stxxl/code/
-            </li></ul>
+          <ul><li>git Repository:<br/><a href="https://github.com/stxxl/stxxl">https://github.com/stxxl/stxxl</a></ul>
         </td>
         <td>
-          [<a href="http://sourceforge.net/p/stxxl/code/HEAD/tree/tags/1.3.1/">Browse</a>]
-          [<a href="https://svn.code.sf.net/p/stxxl/code/tags/1.3.1/">Checkout</a>]
-          <br/>tags/1.3.1/
+          [<a href="https://github.com/stxxl/stxxl/tree/1.4.0">Browse</a>]
         </td>
         <td>
-          [<a href="http://sourceforge.net/p/stxxl/code/HEAD/tree/trunk/">Browse</a>]
-          [<a href="https://svn.code.sf.net/p/stxxl/code/trunk/">Checkout</a>]
-          <br/>trunk/
+          [<a href="https://github.com/stxxl/stxxl/tree/1.3.1">Browse</a>]
         </td>
         <td>
-          [<a href="http://github.com/stxxl/stxxl">https://github.com/stxxl/stxxl</a>]
+          [<a href="https://github.com/stxxl/stxxl/tree/master">1.4-dev</a>]
+          [<a href="https://github.com/stxxl/stxxl/tree/1.3">1.3-dev</a>]
         </td>
       </tr>
     </table>
     <ul class="space">
-      <li>For up-to-date <a href="tags/master/"><b>Tutorial and Design Documentation</b></a> see the 1.4-dev branch.</li>
+      <li><a href="tags/master/"><b>Tutorial and Design Documentation</b></a></li>
       <li>Further, older documentation is available below:
         <ul>
           <li>
@@ -195,6 +188,21 @@
     <h2>Versions</h2>
 
     <ul>
+      <li>
+        <p>Version 1.4.0 (December 12, 2013)</p>
+        <ul>
+          <li>reorganized source hierarchy into include/ lib/ tests/ examples/ doc/ tools/</li>
+          <li>CMake build system for cross-platform compilation</li>
+          <li>greatly improved documentation with tutorials and examples</li>
+          <li>efficient external matrix operations</li>
+          <li>new containers stxxl::sequence and stxxl::sorter</li>
+          <li>improved .stxxl disk configuration files and additional options</li>
+          <li>combined stxxl_tool of disk benchmarks</li>
+          <li>simple examples and skew3 as real-world stream application</li>
+          <li>support for Visual Studio 2012 and 2013 _without_ Boost</li>
+          <li>important bug fixes in stxxl::queue and stxxl::priority_queue</li>
+        </ul>
+      </li>
       <li>
         <p>Version 1.3.1 (March 10, 2011)</p>
         <p>Contains memory management, disk virtualization, prefetching, and so on, as the lower layers, and as part of the higher layer (pipelined) sorting with <a href="http://algo2.iti.kit.edu/singler/mcstl/">SMP and multi-core processor support</a>, (pipelined) scanning and containers (vectors, stacks, priority queues, maps (B+Tree), queues, deques).  Currently that sums to about 35,000 lines of code.</p>
