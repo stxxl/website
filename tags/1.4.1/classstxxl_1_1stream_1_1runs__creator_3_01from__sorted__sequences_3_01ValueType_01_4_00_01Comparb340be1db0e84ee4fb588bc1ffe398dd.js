@@ -1,0 +1,25 @@
+var classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd =
+[
+    [ "alloc_strategy_type", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#aa7a8e4b2df4152c1279a5aa799b2cc87", null ],
+    [ "block_type", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#ac2dd9e34bca4c9d3bd287954a618d665", null ],
+    [ "cmp_type", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#adc63ca61b143df4951ecf95dabfb6e53", null ],
+    [ "result_type", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#a6d8eb6b6707939cea1f3a5a40ec4f6a2", null ],
+    [ "run_type", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#a6057b9cb3c65004f14b8034d0b5162da", null ],
+    [ "sorted_runs_data_type", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#a7978a34322b5364f6ba0f85d4bea3951", null ],
+    [ "sorted_runs_type", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#ae92705e8e91c792c91e16c1c374c5632", null ],
+    [ "trigger_entry_type", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#aab4d5e81bece8249539beb095fe5555a", null ],
+    [ "value_type", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#abe019e1689d735222e2d38ee5ecfa7ad", null ],
+    [ "runs_creator", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#acf918c57b2ef76ef60fb73a2a064822c", null ],
+    [ "finish", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#a7d61967637e8a8bbf3ecce17a2b9d7fd", null ],
+    [ "push", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#a44c0f808c6ff41786b1a65670e2f013a", null ],
+    [ "result", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#a556be165723499238ca8f8fe09b8836b", null ],
+    [ "alloc_strategy", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#ad39080353cb8dd084a39c928b733da98", null ],
+    [ "cmp", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#a1de949cd32bcf3471b43c0b2ae5dc52d", null ],
+    [ "cur_block", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#a4ec1fe3b31942b8567c89295f73c7bb4", null ],
+    [ "iblock", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#a8c0c3c4807503dac8dc65488114236ee", null ],
+    [ "irun", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#a6f4253b78404d3d431ee685dc07d6098", null ],
+    [ "m_", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#a5e8dfe373aaf1af66e616ab505797d58", null ],
+    [ "offset", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#ac4deb958cd1ea229fae1034ccb0d325b", null ],
+    [ "result_", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#a03c0b65c58fa86f9e1d43d51fd17802f", null ],
+    [ "writer", "classstxxl_1_1stream_1_1runs__creator_3_01from__sorted__sequences_3_01ValueType_01_4_00_01Comparb340be1db0e84ee4fb588bc1ffe398dd.html#ab65c0c6e8eab9c021301d5186eee3bdc", null ]
+];

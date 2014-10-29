@@ -1,0 +1,19 @@
+<map id="stxxl::linuxaio_request" name="stxxl::linuxaio_request">
+<area shape="rect" id="node2" href="$classstxxl_1_1request__with__state.html" title="Request with completion state. " alt="" coords="1856,394,1992,441"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1request__with__waiters.html" title="Request that is aware of threads waiting for it to complete. " alt="" coords="1669,335,1805,382"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1request.html" title="Request object encapsulating basic properties like file and offset. " alt="" coords="1463,169,1564,199"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1request__interface.html" title="Functional interface of a request. " alt="" coords="553,221,719,251"/>
+<area shape="rect" id="node10" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="21,436,157,465"/>
+<area shape="rect" id="node14" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="393,391,487,420"/>
+<area shape="rect" id="node21" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="1179,247,1253,276"/>
+<area shape="rect" id="node35" href="$classstxxl_1_1state.html" title="stxxl::state\&lt; request\l_state \&gt;" alt="" coords="1143,453,1289,499"/>
+<area shape="rect" id="node39" href="$classstxxl_1_1condition__variable.html" title="stxxl::condition_variable" alt="" coords="355,565,525,595"/>
+<area shape="rect" id="node42" href="$classstxxl_1_1state.html" title="stxxl::state\&lt; ValueType \&gt;" alt="" coords="747,461,925,491"/>
+<area shape="rect" id="node12" href="$classstxxl_1_1atomic__counted__object.html" title="Provides reference counting abilities for use with counting_ptr with mutex locking. " alt="" coords="759,201,913,247"/>
+<area shape="rect" id="node17" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="357,157,523,203"/>
+<area shape="rect" id="node19" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="7,157,172,203"/>
+<area shape="rect" id="node25" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; stxxl::stxxl::io\l_error \&gt;" alt="" coords="951,73,1100,137"/>
+<area shape="rect" id="node27" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; Type \&gt;" alt="" coords="365,50,515,97"/>
+<area shape="rect" id="node31" href="$structstxxl_1_1compat__unique__ptr.html" title="stxxl::compat_unique\l_ptr\&lt; stxxl::completion\l_handler_impl \&gt;" alt="" coords="756,5,916,69"/>
+<area shape="rect" id="node29" href="$classstxxl_1_1completion__handler.html" title="Completion handler class (Loki&#45;style). " alt="" coords="1127,25,1305,55"/>
+</map>

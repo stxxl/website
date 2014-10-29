@@ -1,0 +1,10 @@
+<map id="stxxl::hash_map::block_cache&lt; BlockType &gt;" name="stxxl::hash_map::block_cache&lt; BlockType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,116,141,145"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1lru__pager.html" title="Pager with LRU replacement strategy. " alt="" coords="1013,109,1208,139"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1simple__vector.html" title="stxxl::simple_vector\l\&lt; list_type::iterator \&gt;" alt="" coords="648,101,797,147"/>
+<area shape="rect" id="node14" href="$classstxxl_1_1simple__vector.html" title="Simpler non&#45;growing vector without initialization. " alt="" coords="241,143,383,190"/>
+<area shape="rect" id="node17" href="$classstxxl_1_1hash__map_1_1block__cache__write__buffer.html" title="stxxl::hash_map::block\l_cache_write_buffer\&lt; block\l_type \&gt;" alt="" coords="627,187,819,251"/>
+<area shape="rect" id="node20" href="$classstxxl_1_1hash__map_1_1block__cache__write__buffer.html" title="Used inside block_cache for buffering write requests of cached blocks. " alt="" coords="193,263,431,310"/>
+<area shape="rect" id="node4" href="$structstxxl_1_1compat__hash__map.html" title="stxxl::compat_hash\l_map\&lt; bid_type, unsigned\l_type, bid_hash \&gt;" alt="" coords="1017,260,1204,324"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1compat__hash__map.html" title="stxxl::compat_hash\l_map\&lt; KeyType, MappedType,\l HashType \&gt;" alt="" coords="613,275,832,339"/>
+</map>

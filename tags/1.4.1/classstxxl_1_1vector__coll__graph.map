@@ -1,0 +1,16 @@
+<map id="stxxl::vector&lt; ValueType, PageSize, PagerType, BlockSize, AllocStr, SizeType &gt;" name="stxxl::vector&lt; ValueType, PageSize, PagerType, BlockSize, AllocStr, SizeType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="1077,421,1152,450"/>
+<area shape="rect" id="node15" href="$classstxxl_1_1block__manager.html" title="Block manager class. " alt="" coords="1585,316,1737,345"/>
+<area shape="rect" id="node24" href="$classstxxl_1_1disk__allocator.html" title="stxxl::disk_allocator" alt="" coords="1255,324,1396,353"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="21,201,157,230"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="408,400,501,429"/>
+<area shape="rect" id="node17" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; block\l_manager \&gt;" alt="" coords="776,228,933,275"/>
+<area shape="rect" id="node20" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; INSTANCE,\l destroy_on_exit \&gt;" alt="" coords="356,228,553,275"/>
+<area shape="rect" id="node31" href="$classstxxl_1_1simple__vector.html" title="stxxl::simple_vector\l\&lt; stxxl::typed_block \&gt;" alt="" coords="777,118,932,164"/>
+<area shape="rect" id="node34" href="$classstxxl_1_1simple__vector.html" title="Simpler non&#45;growing vector without initialization. " alt="" coords="384,58,525,104"/>
+<area shape="rect" id="node37" href="$classstxxl_1_1simple__vector.html" title="stxxl::simple_vector\l\&lt; int_type \&gt;" alt="" coords="784,26,925,72"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1atomic__counted__object.html" title="Provides reference counting abilities for use with counting_ptr with mutex locking. " alt="" coords="777,450,932,496"/>
+<area shape="rect" id="node11" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="372,458,537,504"/>
+<area shape="rect" id="node13" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="7,458,172,504"/>
+<area shape="rect" id="node29" href="$classstxxl_1_1vector_1_1bid__vector.html" title="stxxl::vector\&lt; ValueType,\l PageSize, PagerType, BlockSize,\l AllocStr, SizeType \&gt;::bid_vector" alt="" coords="1544,217,1779,281"/>
+</map>

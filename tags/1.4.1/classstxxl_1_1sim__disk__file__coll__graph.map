@@ -1,0 +1,12 @@
+<map id="stxxl::sim_disk_file" name="stxxl::sim_disk_file">
+<area shape="rect" id="node2" href="$classstxxl_1_1ufs__file__base.html" title="Base for UNIX file system implementations. " alt="" coords="416,440,555,469"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="309,360,384,389"/>
+<area shape="rect" id="node18" href="$classstxxl_1_1disk__queued__file.html" title="Implementation of some file methods based on serving_request. " alt="" coords="232,440,392,469"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="307,15,443,44"/>
+<area shape="rect" id="node10" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="328,129,421,159"/>
+<area shape="rect" id="node23" href="$classstxxl_1_1simdisk__geometry.html" title="stxxl::simdisk_geometry" alt="" coords="471,129,639,159"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1atomic__counted__object.html" title="Provides reference counting abilities for use with counting_ptr with mutex locking. " alt="" coords="277,235,432,282"/>
+<area shape="rect" id="node13" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="7,121,172,167"/>
+<area shape="rect" id="node15" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="5,6,171,53"/>
+<area shape="rect" id="node21" href="$classstxxl_1_1IC35L080AVVA07.html" title="stxxl::IC35L080AVVA07" alt="" coords="548,307,719,336"/>
+</map>

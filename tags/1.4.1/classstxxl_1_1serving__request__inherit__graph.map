@@ -1,0 +1,8 @@
+<map id="stxxl::serving_request" name="stxxl::serving_request">
+<area shape="rect" id="node2" href="$classstxxl_1_1request__with__state.html" title="Request with completion state. " alt="" coords="112,353,248,399"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1request__with__waiters.html" title="Request that is aware of threads waiting for it to complete. " alt="" coords="112,257,248,303"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1request.html" title="Request object encapsulating basic properties like file and offset. " alt="" coords="129,179,231,208"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1request__interface.html" title="Functional interface of a request. " alt="" coords="5,92,171,121"/>
+<area shape="rect" id="node10" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="20,5,156,35"/>
+<area shape="rect" id="node12" href="$classstxxl_1_1atomic__counted__object.html" title="Provides reference counting abilities for use with counting_ptr with mutex locking. " alt="" coords="195,83,349,130"/>
+</map>

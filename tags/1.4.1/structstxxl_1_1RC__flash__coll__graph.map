@@ -1,0 +1,6 @@
+<map id="stxxl::RC_flash" name="stxxl::RC_flash">
+<area shape="rect" id="node2" href="$structstxxl_1_1RC.html" title="Randomized cycling disk allocation scheme functor. " alt="" coords="51,331,125,360"/>
+<area shape="rect" id="node4" href="$structstxxl_1_1striping.html" title="Striping disk allocation scheme functor. " alt="" coords="37,251,139,280"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="5,121,171,167"/>
+<area shape="rect" id="node8" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="5,6,171,53"/>
+</map>

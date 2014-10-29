@@ -1,0 +1,7 @@
+<map id="stxxl::prefetch_pool&lt; BlockType &gt;" name="stxxl::prefetch_pool&lt; BlockType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="437,5,573,35"/>
+<area shape="rect" id="node4" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="423,58,588,105"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="32,58,197,105"/>
+<area shape="rect" id="node8" href="$structstxxl_1_1compat__hash__map.html" title="stxxl::compat_hash\l_map\&lt; bid_type, busy\l_entry, bid_hash \&gt;" alt="" coords="427,128,584,192"/>
+<area shape="rect" id="node10" href="$structstxxl_1_1compat__hash__map.html" title="stxxl::compat_hash\l_map\&lt; KeyType, MappedType,\l HashType \&gt;" alt="" coords="5,128,224,192"/>
+</map>

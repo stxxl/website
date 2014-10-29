@@ -1,0 +1,25 @@
+var structstxxl_1_1matrix__local_1_1matrix__to__quadtree =
+[
+    [ "block_scheduler_type", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#a5d74becf892ce6aaffa09d0583cb49e3", null ],
+    [ "internal_block_type", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#a4ca394195a730970dbb3195e806c5c9d", null ],
+    [ "size_type", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#af591c020cd8fc2289c23e53f4a91d62e", null ],
+    [ "smaller_matrix_to_quadtree", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#aecde5567ef45b55480a5811924ac6a9f", null ],
+    [ "swappable_block_matrix_type", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#a75dc296506df43b41d09b5d26a64cb08", null ],
+    [ "vt", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#a3f06356d47be73303f6b4eac071721f2", null ],
+    [ "zbt", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#a5717ed5aab69a7f88bd8d33d59ea5723", null ],
+    [ "matrix_to_quadtree", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#ad1dc4c5fb2b90404beacea12fdf79a42", null ],
+    [ "matrix_to_quadtree", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#afb2b32c1c4dcf12fb11567fd5c67105e", null ],
+    [ "begin_feeding_block", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#a8d99ccd0a5a16b7d8648f0cd0276e7e1", null ],
+    [ "begin_reading_block", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#a7fbaa1d397a9eaa552cb825f4feba299", null ],
+    [ "end_feeding_block", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#a889af9202cbd9cf039199baa32ea7034", null ],
+    [ "end_reading_block", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#a745ec3e0b776f1579a1b7deab4773b3a", null ],
+    [ "feed_and_add_element", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#a9658d257f3edc4476edd177fa6f0b639", null ],
+    [ "feed_element", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#ab7b57c35cc0fb0ac7828969a8b62a042", null ],
+    [ "get_height_in_blocks", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#ad9c8a49b1797fa33c9d084fa1eb1c690", null ],
+    [ "get_width_in_blocks", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#a2502fcf1b1c71175bd076a7a611d7ed6", null ],
+    [ "read_element", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#a0c5947e65d63e2ad04c4f2f128d7e945", null ],
+    [ "dl", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#a32ce4727dd52d23a7af078c0d3f0e6ff", null ],
+    [ "dr", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#a64ed7da8c2655475dd64b315c1a8e636", null ],
+    [ "ul", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#a3153f734c289d70f9761bcee11141268", null ],
+    [ "ur", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree.html#aef7173b2d1e88e27b55403a3e1b73278", null ]
+];

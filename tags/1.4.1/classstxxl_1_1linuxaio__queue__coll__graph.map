@@ -1,0 +1,10 @@
+<map id="stxxl::linuxaio_queue" name="stxxl::linuxaio_queue">
+<area shape="rect" id="node2" href="$classstxxl_1_1request__queue__impl__worker.html" title="Implementation of request queue worker threads. Worker threads can be started by start_thread and sto..." alt="" coords="763,5,912,51"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1request__queue.html" title="Interface of a request_queue to which requests can be added and canceled. " alt="" coords="387,9,536,39"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,209,141,239"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="231,167,324,196"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1state.html" title="stxxl::state\&lt; thread\l_state \&gt;" alt="" coords="939,279,1077,326"/>
+<area shape="rect" id="node15" href="$classstxxl_1_1condition__variable.html" title="stxxl::condition_variable" alt="" coords="192,288,363,317"/>
+<area shape="rect" id="node18" href="$classstxxl_1_1state.html" title="stxxl::state\&lt; ValueType \&gt;" alt="" coords="560,288,739,317"/>
+<area shape="rect" id="node23" href="$classstxxl_1_1semaphore.html" title="stxxl::semaphore" alt="" coords="587,136,712,165"/>
+</map>

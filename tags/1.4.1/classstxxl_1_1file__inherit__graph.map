@@ -1,0 +1,14 @@
+<map id="stxxl::file" name="stxxl::file">
+<area shape="rect" id="node5" href="$classstxxl_1_1disk__queued__file.html" title="Implementation of some file methods based on serving_request. " alt="" coords="313,196,473,225"/>
+<area shape="rect" id="node23" href="$classstxxl_1_1ufs__file__base.html" title="Base for UNIX file system implementations. " alt="" coords="324,112,463,141"/>
+<area shape="rect" id="node29" href="$classstxxl_1_1wfs__file__base.html" title="Base for Windows file system implementations. " alt="" coords="323,307,464,336"/>
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,196,141,225"/>
+<area shape="rect" id="node7" href="$classstxxl_1_1fileperblock__file.html" title="Implementation of file based on other files, dynamically allocate one file per block. Allows for dynamic disk space consumption. " alt="" coords="523,218,685,265"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1linuxaio__file.html" title="Implementation of file based on the Linux kernel interface for asynchronous I/O. " alt="" coords="540,112,668,141"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1mem__file.html" title="Implementation of file based on new[] and memcpy. " alt="" coords="548,288,660,317"/>
+<area shape="rect" id="node13" href="$classstxxl_1_1mmap__file.html" title="Implementation of memory mapped access file. " alt="" coords="544,165,664,195"/>
+<area shape="rect" id="node15" href="$classstxxl_1_1sim__disk__file.html" title="Implementation of disk emulation. " alt="" coords="536,5,672,35"/>
+<area shape="rect" id="node17" href="$classstxxl_1_1syscall__file.html" title="Implementation of file based on UNIX syscalls. " alt="" coords="543,59,665,88"/>
+<area shape="rect" id="node19" href="$classstxxl_1_1wbtl__file.html" title="Implementation of file based on buffered writes and block remapping via a translation layer..." alt="" coords="551,341,657,371"/>
+<area shape="rect" id="node21" href="$classstxxl_1_1wincall__file.html" title="Implementation of file based on Windows native I/O calls. " alt="" coords="543,395,665,424"/>
+</map>

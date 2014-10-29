@@ -1,0 +1,8 @@
+<map id="stxxl::disk_queued_file" name="stxxl::disk_queued_file">
+<area shape="rect" id="node2" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="48,349,123,379"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="8,15,144,44"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="84,129,177,159"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1atomic__counted__object.html" title="Provides reference counting abilities for use with counting_ptr with mutex locking. " alt="" coords="84,235,239,282"/>
+<area shape="rect" id="node11" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="251,121,416,167"/>
+<area shape="rect" id="node13" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="251,6,416,53"/>
+</map>

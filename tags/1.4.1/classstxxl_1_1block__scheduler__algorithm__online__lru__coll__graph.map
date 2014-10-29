@@ -1,0 +1,16 @@
+<map id="stxxl::block_scheduler_algorithm_online_lru&lt; SwappableBlockType &gt;" name="stxxl::block_scheduler_algorithm_online_lru&lt; SwappableBlockType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1block__scheduler__algorithm.html" title="Interface of a block scheduling algorithm. " alt="" coords="2255,481,2500,527"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="21,328,157,357"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1block__scheduler.html" title="Schedules swapping of blocks and provides blocks for temporary storage. " alt="" coords="1837,413,2019,459"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; block\l_manager \&gt;" alt="" coords="776,329,933,375"/>
+<area shape="rect" id="node14" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; INSTANCE,\l destroy_on_exit \&gt;" alt="" coords="356,379,553,426"/>
+<area shape="rect" id="node17" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="1077,145,1152,175"/>
+<area shape="rect" id="node22" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="408,225,501,255"/>
+<area shape="rect" id="node29" href="$classstxxl_1_1disk__allocator.html" title="stxxl::disk_allocator" alt="" coords="1324,237,1465,267"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1block__manager.html" title="Block manager class. " alt="" coords="1613,304,1765,333"/>
+<area shape="rect" id="node20" href="$classstxxl_1_1atomic__counted__object.html" title="Provides reference counting abilities for use with counting_ptr with mutex locking. " alt="" coords="777,77,932,123"/>
+<area shape="rect" id="node25" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="372,77,537,123"/>
+<area shape="rect" id="node27" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="7,77,172,123"/>
+<area shape="rect" id="node35" href="$classstxxl_1_1addressable__fifo__queue.html" title="stxxl::addressable\l_fifo_queue\&lt; swappable\l_block_identifier_type \&gt;" alt="" coords="2291,551,2464,615"/>
+<area shape="rect" id="node37" href="$classstxxl_1_1addressable__fifo__queue.html" title="An internal fifo queue that allows removing elements addressed with (a copy of) themselves. " alt="" coords="1841,559,2015,606"/>
+</map>

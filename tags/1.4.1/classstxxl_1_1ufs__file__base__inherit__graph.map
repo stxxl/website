@@ -1,0 +1,8 @@
+<map id="stxxl::ufs_file_base" name="stxxl::ufs_file_base">
+<area shape="rect" id="node7" href="$classstxxl_1_1linuxaio__file.html" title="Implementation of file based on the Linux kernel interface for asynchronous I/O. " alt="" coords="5,237,133,267"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1mmap__file.html" title="Implementation of memory mapped access file. " alt="" coords="157,237,277,267"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1sim__disk__file.html" title="Implementation of disk emulation. " alt="" coords="301,237,437,267"/>
+<area shape="rect" id="node13" href="$classstxxl_1_1syscall__file.html" title="Implementation of file based on UNIX syscalls. " alt="" coords="461,237,584,267"/>
+<area shape="rect" id="node2" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="256,83,331,112"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="225,5,361,35"/>
+</map>

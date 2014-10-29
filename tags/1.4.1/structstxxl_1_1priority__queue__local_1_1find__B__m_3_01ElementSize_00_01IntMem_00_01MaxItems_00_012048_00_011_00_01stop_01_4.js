@@ -1,0 +1,5 @@
+var structstxxl_1_1priority__queue__local_1_1find__B__m_3_01ElementSize_00_01IntMem_00_01MaxItems_00_012048_00_011_00_01stop_01_4 =
+[
+    [ "result", "structstxxl_1_1priority__queue__local_1_1find__B__m_3_01ElementSize_00_01IntMem_00_01MaxItems_00_012048_00_011_00_01stop_01_4.html#af9739545fd80b9f09db7d552352d9af0", null ],
+    [ "fits", "structstxxl_1_1priority__queue__local_1_1find__B__m_3_01ElementSize_00_01IntMem_00_01MaxItems_00_012048_00_011_00_01stop_01_4.html#a581e9329a40632bdd789aec96c6c3c45ae92dfc005ca0c521f19aeff09fa6bc21", null ]
+];

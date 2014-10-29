@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['x',['X',['../classstxxl_1_1PRIORITY__QUEUE__GENERATOR.html#a33c111b37112a88ab04ab719669d63a7a0286786b60a319b783b52ba888085017',1,'stxxl::PRIORITY_QUEUE_GENERATOR']]]
+];

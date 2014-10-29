@@ -1,0 +1,8 @@
+<map id="stxxl::sim_disk_file" name="stxxl::sim_disk_file">
+<area shape="rect" id="node2" href="$classstxxl_1_1ufs__file__base.html" title="Base for UNIX file system implementations. " alt="" coords="5,160,144,189"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="211,83,285,112"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1disk__queued__file.html" title="Implementation of some file methods based on serving_request. " alt="" coords="168,160,328,189"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="263,5,399,35"/>
+<area shape="rect" id="node13" href="$classstxxl_1_1simdisk__geometry.html" title="stxxl::simdisk_geometry" alt="" coords="331,83,499,112"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1IC35L080AVVA07.html" title="stxxl::IC35L080AVVA07" alt="" coords="352,160,523,189"/>
+</map>

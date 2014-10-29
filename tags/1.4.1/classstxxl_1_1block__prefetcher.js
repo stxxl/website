@@ -1,0 +1,26 @@
+var classstxxl_1_1block__prefetcher =
+[
+    [ "bid_iterator_type", "classstxxl_1_1block__prefetcher.html#abdec20050ab41bba0a783bc61a256e83", null ],
+    [ "bid_type", "classstxxl_1_1block__prefetcher.html#a1ae351fed434b0efe000c8c68b03074f", null ],
+    [ "block_type", "classstxxl_1_1block__prefetcher.html#a96f588cc9dd5250f610e59de6f48c3bc", null ],
+    [ "block_prefetcher", "classstxxl_1_1block__prefetcher.html#a77140275b2f24d1f73d5a035108ac78c", null ],
+    [ "~block_prefetcher", "classstxxl_1_1block__prefetcher.html#a3c23f747ff71a19891ef29b1e36e9046", null ],
+    [ "block_consumed", "classstxxl_1_1block__prefetcher.html#aa45cc9f3fa00d5011026a371bdb40511", null ],
+    [ "empty", "classstxxl_1_1block__prefetcher.html#a09b38c470f8e5d33eb37594171b92b0a", null ],
+    [ "pos", "classstxxl_1_1block__prefetcher.html#af8e1d05f02b57d295402dfecfb48e8d5", null ],
+    [ "pull_block", "classstxxl_1_1block__prefetcher.html#a27f1872bdb59ee80511b043cf14bd2ef", null ],
+    [ "wait", "classstxxl_1_1block__prefetcher.html#aaff2aa3ef024d326b1e72bec065a013f", null ],
+    [ "completed", "classstxxl_1_1block__prefetcher.html#a2f5e9d3d7f3ee9a5033d995008696ef8", null ],
+    [ "consume_seq_begin", "classstxxl_1_1block__prefetcher.html#a520910e5a508e98fec3970e3b1de73ed", null ],
+    [ "consume_seq_end", "classstxxl_1_1block__prefetcher.html#ace8d4375fff70f687cc21d4959956938", null ],
+    [ "do_after_fetch", "classstxxl_1_1block__prefetcher.html#ab19825ca8fca7852417de8e9e52ba257", null ],
+    [ "nextconsume", "classstxxl_1_1block__prefetcher.html#a2de5c1ca2ad62369e98d4e629709ef6d", null ],
+    [ "nextread", "classstxxl_1_1block__prefetcher.html#a016688e3ceead1e913cec84107e60311", null ],
+    [ "nreadblocks", "classstxxl_1_1block__prefetcher.html#a300bb3b2ec1091bba9b425bb7bab4642", null ],
+    [ "pref_buffer", "classstxxl_1_1block__prefetcher.html#aad36a9347d9bae9f39495294931c0efc", null ],
+    [ "prefetch_seq", "classstxxl_1_1block__prefetcher.html#a4577ba1e69815a74d5ec420818b87a5e", null ],
+    [ "read_bids", "classstxxl_1_1block__prefetcher.html#a2ddba814de697f2e39b50b2da53aa702", null ],
+    [ "read_buffers", "classstxxl_1_1block__prefetcher.html#a895ed32984ff1bbe19111b0f49e18231", null ],
+    [ "read_reqs", "classstxxl_1_1block__prefetcher.html#a7ed8f97e4201e59e8a6dad292c1e6283", null ],
+    [ "seq_length", "classstxxl_1_1block__prefetcher.html#a083ffc6e362d364dfb95b952d0379655", null ]
+];

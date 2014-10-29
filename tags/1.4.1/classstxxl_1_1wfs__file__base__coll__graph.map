@@ -1,0 +1,8 @@
+<map id="stxxl::wfs_file_base" name="stxxl::wfs_file_base">
+<area shape="rect" id="node2" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="132,349,207,379"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,15,141,44"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="81,129,175,159"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1atomic__counted__object.html" title="Provides reference counting abilities for use with counting_ptr with mutex locking. " alt="" coords="132,235,287,282"/>
+<area shape="rect" id="node11" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="259,121,424,167"/>
+<area shape="rect" id="node13" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="259,6,424,53"/>
+</map>

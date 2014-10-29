@@ -1,0 +1,13 @@
+<map id="stxxl::mng_local::block_w_info&lt; Type, RawSize, NBids, void &gt;" name="stxxl::mng_local::block_w_info&lt; Type, RawSize, NBids, void &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1mng__local_1_1block__w__bids.html" title="stxxl::mng_local::block\l_w_bids\&lt; Type,((RawSize\l&#45;sizeof(BID\&lt; RawSize \&gt;)*NBids)\l/sizeof(Type)), RawSize, NBids \&gt;" alt="" coords="2156,66,2383,147"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1mng__local_1_1element__block.html" title="Contains data elements for stxxl::typed_block , not intended for direct use. " alt="" coords="1483,5,1659,51"/>
+<area shape="rect" id="node24" href="$classstxxl_1_1mng__local_1_1block__w__bids.html" title="Contains BID references for stxxl::typed_block , not intended for direct use. " alt="" coords="1728,55,1944,119"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1BID.html" title="stxxl::BID\&lt; raw_size \&gt;" alt="" coords="1492,124,1649,153"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="1043,119,1117,148"/>
+<area shape="rect" id="node21" href="$structstxxl_1_1BID.html" title="Block identifier class. " alt="" coords="1219,161,1349,191"/>
+<area shape="rect" id="node10" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="21,112,157,141"/>
+<area shape="rect" id="node14" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="392,147,485,176"/>
+<area shape="rect" id="node12" href="$classstxxl_1_1atomic__counted__object.html" title="Provides reference counting abilities for use with counting_ptr with mutex locking. " alt="" coords="744,146,899,193"/>
+<area shape="rect" id="node17" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="356,199,521,246"/>
+<area shape="rect" id="node19" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="7,199,172,246"/>
+</map>

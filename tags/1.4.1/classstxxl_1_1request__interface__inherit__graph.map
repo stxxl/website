@@ -1,0 +1,8 @@
+<map id="stxxl::request_interface" name="stxxl::request_interface">
+<area shape="rect" id="node5" href="$classstxxl_1_1request.html" title="Request object encapsulating basic properties like file and offset. " alt="" coords="124,160,225,189"/>
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="107,5,243,35"/>
+<area shape="rect" id="node7" href="$classstxxl_1_1request__with__waiters.html" title="Request that is aware of threads waiting for it to complete. " alt="" coords="107,238,243,285"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1request__with__state.html" title="Request with completion state. " alt="" coords="107,334,243,381"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1linuxaio__request.html" title="Request for an linuxaio_file. " alt="" coords="5,429,163,459"/>
+<area shape="rect" id="node13" href="$classstxxl_1_1serving__request.html" title="Request which serves an I/O by calling the synchronous routine of the file. " alt="" coords="187,429,344,459"/>
+</map>

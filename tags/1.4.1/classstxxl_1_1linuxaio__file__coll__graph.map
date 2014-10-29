@@ -1,0 +1,10 @@
+<map id="stxxl::linuxaio_file" name="stxxl::linuxaio_file">
+<area shape="rect" id="node2" href="$classstxxl_1_1ufs__file__base.html" title="Base for UNIX file system implementations. " alt="" coords="25,429,164,459"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="145,349,220,379"/>
+<area shape="rect" id="node18" href="$classstxxl_1_1disk__queued__file.html" title="Implementation of some file methods based on serving_request. " alt="" coords="188,429,348,459"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,15,141,44"/>
+<area shape="rect" id="node10" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="81,129,175,159"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1atomic__counted__object.html" title="Provides reference counting abilities for use with counting_ptr with mutex locking. " alt="" coords="132,235,287,282"/>
+<area shape="rect" id="node13" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="259,121,424,167"/>
+<area shape="rect" id="node15" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="259,6,424,53"/>
+</map>

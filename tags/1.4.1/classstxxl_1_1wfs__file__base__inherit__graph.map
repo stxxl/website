@@ -1,0 +1,5 @@
+<map id="stxxl::wfs_file_base" name="stxxl::wfs_file_base">
+<area shape="rect" id="node7" href="$classstxxl_1_1wincall__file.html" title="Implementation of file based on Windows native I/O calls. " alt="" coords="15,237,137,267"/>
+<area shape="rect" id="node2" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="39,83,113,112"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="8,5,144,35"/>
+</map>

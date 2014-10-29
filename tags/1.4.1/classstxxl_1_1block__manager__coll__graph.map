@@ -1,0 +1,11 @@
+<map id="stxxl::block_manager" name="stxxl::block_manager">
+<area shape="rect" id="node2" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; block\l_manager \&gt;" alt="" coords="776,31,933,78"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="21,100,157,129"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; INSTANCE,\l destroy_on_exit \&gt;" alt="" coords="356,31,553,78"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="1077,149,1152,178"/>
+<area shape="rect" id="node14" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="408,160,501,189"/>
+<area shape="rect" id="node21" href="$classstxxl_1_1disk__allocator.html" title="stxxl::disk_allocator" alt="" coords="1255,210,1396,240"/>
+<area shape="rect" id="node12" href="$classstxxl_1_1atomic__counted__object.html" title="Provides reference counting abilities for use with counting_ptr with mutex locking. " alt="" coords="777,151,932,198"/>
+<area shape="rect" id="node17" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="372,344,537,391"/>
+<area shape="rect" id="node19" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="7,344,172,391"/>
+</map>

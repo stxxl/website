@@ -1,0 +1,5 @@
+<map id="stxxl::hash_map::iterator_map&lt; HashMap &gt;" name="stxxl::hash_map::iterator_map&lt; HashMap &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="415,5,551,35"/>
+<area shape="rect" id="node4" href="$structstxxl_1_1compat__hash__multimap.html" title="stxxl::compat_hash\l_multimap\&lt; internal\l_size_type, iterator\l_base *, hasher \&gt;" alt="" coords="411,58,555,139"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1compat__hash__multimap.html" title="stxxl::compat_hash\l_multimap\&lt; KeyType,\l MappedType, HashType \&gt;" alt="" coords="5,67,200,131"/>
+</map>

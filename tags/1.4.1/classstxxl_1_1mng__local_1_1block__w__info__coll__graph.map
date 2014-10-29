@@ -1,0 +1,13 @@
+<map id="stxxl::mng_local::block_w_info&lt; Type, RawSize, NBids, MetaInfoType &gt;" name="stxxl::mng_local::block_w_info&lt; Type, RawSize, NBids, MetaInfoType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1mng__local_1_1block__w__bids.html" title="stxxl::mng_local::block\l_w_bids\&lt; Type,((RawSize\l&#45;sizeof(BID\&lt; RawSize \&gt;)*NBids\l&#45;sizeof(MetaInfoType))/sizeof\l(Type)), RawSize, NBids \&gt;" alt="" coords="2149,79,2368,178"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1mng__local_1_1element__block.html" title="Contains data elements for stxxl::typed_block , not intended for direct use. " alt="" coords="1483,9,1659,56"/>
+<area shape="rect" id="node24" href="$classstxxl_1_1mng__local_1_1block__w__bids.html" title="Contains BID references for stxxl::typed_block , not intended for direct use. " alt="" coords="1728,67,1944,131"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1BID.html" title="stxxl::BID\&lt; raw_size \&gt;" alt="" coords="1492,136,1649,166"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="1043,131,1117,160"/>
+<area shape="rect" id="node21" href="$structstxxl_1_1BID.html" title="Block identifier class. " alt="" coords="1219,174,1349,203"/>
+<area shape="rect" id="node10" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="21,124,157,154"/>
+<area shape="rect" id="node14" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="392,159,485,188"/>
+<area shape="rect" id="node12" href="$classstxxl_1_1atomic__counted__object.html" title="Provides reference counting abilities for use with counting_ptr with mutex locking. " alt="" coords="744,158,899,205"/>
+<area shape="rect" id="node17" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="356,212,521,258"/>
+<area shape="rect" id="node19" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="7,212,172,258"/>
+</map>

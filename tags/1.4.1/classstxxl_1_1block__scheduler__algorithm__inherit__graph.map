@@ -1,0 +1,7 @@
+<map id="stxxl::block_scheduler_algorithm&lt; SwappableBlockType &gt;" name="stxxl::block_scheduler_algorithm&lt; SwappableBlockType &gt;">
+<area shape="rect" id="node5" href="$classstxxl_1_1block__scheduler__algorithm__offline__lfd.html" title="Block scheduling algorithm caching via the longest forward distance policy (offline). " alt="" coords="525,5,707,69"/>
+<area shape="rect" id="node7" href="$classstxxl_1_1block__scheduler__algorithm__offline__lru__prefetching.html" title="Block scheduling algorithm caching via the least recently used policy (offline), and prefetching in a..." alt="" coords="487,93,745,157"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1block__scheduler__algorithm__online__lru.html" title="Block scheduling algorithm caching via the least recently used policy (online). " alt="" coords="525,181,707,245"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1block__scheduler__algorithm__simulation.html" title="Pseudo block scheduling algorithm only recording the request sequence. " alt="" coords="525,269,707,333"/>
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,155,141,184"/>
+</map>

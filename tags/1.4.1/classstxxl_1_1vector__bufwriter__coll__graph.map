@@ -1,0 +1,9 @@
+<map id="stxxl::vector_bufwriter&lt; VectorIteratorType &gt;" name="stxxl::vector_bufwriter&lt; VectorIteratorType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="5,159,141,188"/>
+<area shape="rect" id="node8" href="$classstxxl_1_1buf__ostream.html" title="Buffered output stream. " alt="" coords="916,113,1132,159"/>
+<area shape="rect" id="node12" href="$classstxxl_1_1buffered__writer.html" title="stxxl::buffered_writer\l\&lt; block_type \&gt;" alt="" coords="620,206,769,253"/>
+<area shape="rect" id="node17" href="$classstxxl_1_1buffered__writer.html" title="Encapsulates asynchronous buffered block writing engine. " alt="" coords="271,294,420,341"/>
+<area shape="rect" id="node4" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="612,50,777,97"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="263,50,428,97"/>
+<area shape="rect" id="node15" href="$classstxxl_1_1counting__ptr.html" title="High&#45;performance smart pointer used as a wrapping reference counting pointer. " alt="" coords="7,243,140,290"/>
+</map>

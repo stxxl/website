@@ -1,0 +1,4 @@
+<map id="stxxl::request_queue_impl_worker" name="stxxl::request_queue_impl_worker">
+<area shape="rect" id="node2" href="$classstxxl_1_1request__queue.html" title="Interface of a request_queue to which requests can be added and canceled. " alt="" coords="5,83,155,112"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="12,5,148,35"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="stxxl::tuple&lt; T1, T2, T3, T4, T5, T6 &gt;" name="stxxl::tuple&lt; T1, T2, T3, T4, T5, T6 &gt;">
+<area shape="rect" id="node3" href="$structstxxl_1_1tuple.html" title="stxxl::tuple\&lt; typename\l Input1::value_type, typename\l Input2::value_type, typename\l Input3::value_type, typename\l Input4::value_type, typename\l Input5::value_type, typename Input6\l::value_type \&gt;" alt="" coords="384,79,635,212"/>
+<area shape="rect" id="node5" href="$structstxxl_1_1tuple.html" title="stxxl::tuple\&lt; typename\l Input1::value_type, typename\l Input2::value_type \&gt;" alt="" coords="405,236,613,300"/>
+<area shape="rect" id="node7" href="$structstxxl_1_1tuple.html" title="stxxl::tuple\&lt; typename\l Input1::value_type, typename\l Input2::value_type, typename\l Input3::value_type \&gt;" alt="" coords="405,345,613,426"/>
+<area shape="rect" id="node9" href="$structstxxl_1_1tuple.html" title="stxxl::tuple\&lt; typename\l Input1::value_type, typename\l Input2::value_type, typename\l Input3::value_type, typename\l Input4::value_type, typename\l Input5::value_type \&gt;" alt="" coords="405,479,613,595"/>
+<area shape="rect" id="node11" href="$structstxxl_1_1tuple.html" title="stxxl::tuple\&lt; typename\l Input1::value_type, typename\l Input2::value_type, typename\l Input3::value_type, typename\l Input4::value_type \&gt;" alt="" coords="405,623,613,721"/>
+</map>

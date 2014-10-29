@@ -1,0 +1,7 @@
+<map id="stxxl::striping" name="stxxl::striping">
+<area shape="rect" id="node3" href="$structstxxl_1_1FR.html" title="Fully randomized disk allocation scheme functor. " alt="" coords="5,83,80,112"/>
+<area shape="rect" id="node5" href="$structstxxl_1_1RC.html" title="Randomized cycling disk allocation scheme functor. " alt="" coords="104,83,179,112"/>
+<area shape="rect" id="node11" href="$structstxxl_1_1SR.html" title="Simple randomized disk allocation scheme functor. " alt="" coords="203,83,277,112"/>
+<area shape="rect" id="node7" href="$structstxxl_1_1RC__disk.html" title="stxxl::RC_disk" alt="" coords="19,160,128,189"/>
+<area shape="rect" id="node9" href="$structstxxl_1_1RC__flash.html" title="stxxl::RC_flash" alt="" coords="152,160,267,189"/>
+</map>

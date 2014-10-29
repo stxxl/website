@@ -1,0 +1,26 @@
+var classstxxl_1_1block__scheduler__algorithm__offline__lfd =
+[
+    [ "priority", "classstxxl_1_1block__scheduler__algorithm__offline__lfd_1_1priority.html", "classstxxl_1_1block__scheduler__algorithm__offline__lfd_1_1priority" ],
+    [ "block_scheduler_algorithm_type", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#a0adb0601b30d381eaba0efa45d8189b0", null ],
+    [ "block_scheduler_type", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#ab279053f8615be69fac23784fc7e3adb", null ],
+    [ "external_block_type", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#a3e04b494c1abcc1168053e59b92b1de6", null ],
+    [ "internal_block_type", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#a27592e930c9dbcfcf1dd30dae61dc7dd", null ],
+    [ "prediction_sequence_type", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#ab884d9e51c35597533d82762ba4184f2", null ],
+    [ "swappable_block_identifier_type", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#af3c8616c047a26bb94967fe11a8b62d2", null ],
+    [ "time_type", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#a9907cf3901ddbf5a12f7c8ad7a19c407", null ],
+    [ "block_scheduler_algorithm_offline_lfd", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#ab7b7626e9e94267a4bd76b846f7dec7c", null ],
+    [ "block_scheduler_algorithm_offline_lfd", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#a30135baf17dbd6dcf499ae4337d5d1a3", null ],
+    [ "~block_scheduler_algorithm_offline_lfd", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#a17f402a7534dbe9d1e14f10e888a4141", null ],
+    [ "acquire", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#ab7364ccefa441a659383091166875ff8", null ],
+    [ "deinitialize", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#aaa3fc841fa42190d87ffd5258bb3653e", null ],
+    [ "evictable_blocks_empty", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#a62251147442fff8596645fd5ff6ce264", null ],
+    [ "evictable_blocks_pop", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#a08ceaf03709cae6aca65632beadd6a4f", null ],
+    [ "extract_external_block", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#a80edde4601a6f55cd62bff28a9588bd1", null ],
+    [ "get_free_internal_block", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#a6d118758bd51421802c0dc6b65ca60e6", null ],
+    [ "init", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#acab490ad749463564cef5105f880eb1d", null ],
+    [ "initialize", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#a40b073080ca8ae2c475bc3550829da5a", null ],
+    [ "release", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#aa6fecd166011788fe849280769a657d6", null ],
+    [ "return_free_internal_block", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#aad8d519c7198de4cfb52d51b760e4140", null ],
+    [ "evictable_blocks", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#a279eadcb0640d67a57e0131440615516", null ],
+    [ "next_use", "classstxxl_1_1block__scheduler__algorithm__offline__lfd.html#ace34d8adc61d90a10e19a50a5a625627", null ]
+];

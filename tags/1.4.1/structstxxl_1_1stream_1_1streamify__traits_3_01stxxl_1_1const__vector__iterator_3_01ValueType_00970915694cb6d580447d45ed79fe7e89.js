@@ -1,0 +1,4 @@
+var structstxxl_1_1stream_1_1streamify__traits_3_01stxxl_1_1const__vector__iterator_3_01ValueType_00970915694cb6d580447d45ed79fe7e89 =
+[
+    [ "stream_type", "structstxxl_1_1stream_1_1streamify__traits_3_01stxxl_1_1const__vector__iterator_3_01ValueType_00970915694cb6d580447d45ed79fe7e89.html#a54e6038b654fd6260f543879aa5f0c56", null ]
+];

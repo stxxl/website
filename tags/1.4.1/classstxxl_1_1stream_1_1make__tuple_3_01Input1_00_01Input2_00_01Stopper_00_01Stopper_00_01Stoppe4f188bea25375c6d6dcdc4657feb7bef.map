@@ -1,0 +1,5 @@
+<map id="stxxl::stream::make_tuple&lt; Input1, Input2, Stopper, Stopper, Stopper, Stopper &gt;" name="stxxl::stream::make_tuple&lt; Input1, Input2, Stopper, Stopper, Stopper, Stopper &gt;">
+<area shape="rect" id="node2" href="$structstxxl_1_1tuple.html" title="stxxl::tuple\&lt; typename\l Input1::value_type, typename\l Input2::value_type \&gt;" alt="" coords="11,171,219,235"/>
+<area shape="rect" id="node4" href="$structstxxl_1_1Plug.html" title="stxxl::Plug" alt="" coords="5,15,88,44"/>
+<area shape="rect" id="node6" href="$structstxxl_1_1tuple.html" title="k&#45;Tuple data type " alt="" coords="112,6,253,53"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="stxxl::block_scheduler_algorithm_simulation&lt; SwappableBlockType &gt;" name="stxxl::block_scheduler_algorithm_simulation&lt; SwappableBlockType &gt;">
+<area shape="rect" id="node2" href="$classstxxl_1_1block__scheduler__algorithm.html" title="Interface of a block scheduling algorithm. " alt="" coords="2087,27,2332,74"/>
+<area shape="rect" id="node4" href="$classstxxl_1_1noncopyable.html" title="stxxl::noncopyable" alt="" coords="21,152,157,181"/>
+<area shape="rect" id="node6" href="$classstxxl_1_1block__scheduler.html" title="Schedules swapping of blocks and provides blocks for temporary storage. " alt="" coords="1837,101,2019,147"/>
+<area shape="rect" id="node11" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; block\l_manager \&gt;" alt="" coords="776,137,933,183"/>
+<area shape="rect" id="node14" href="$classstxxl_1_1singleton.html" title="stxxl::singleton\&lt; INSTANCE,\l destroy_on_exit \&gt;" alt="" coords="356,143,553,190"/>
+<area shape="rect" id="node17" href="$classstxxl_1_1file.html" title="Defines interface of file. " alt="" coords="1077,249,1152,279"/>
+<area shape="rect" id="node22" href="$classstxxl_1_1mutex.html" title="stxxl::mutex" alt="" coords="408,265,501,295"/>
+<area shape="rect" id="node29" href="$classstxxl_1_1disk__allocator.html" title="stxxl::disk_allocator" alt="" coords="1324,313,1465,343"/>
+<area shape="rect" id="node9" href="$classstxxl_1_1block__manager.html" title="Block manager class. " alt="" coords="1613,195,1765,224"/>
+<area shape="rect" id="node20" href="$classstxxl_1_1atomic__counted__object.html" title="Provides reference counting abilities for use with counting_ptr with mutex locking. " alt="" coords="777,257,932,303"/>
+<area shape="rect" id="node25" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; my_pointer_size \&gt;" alt="" coords="372,438,537,485"/>
+<area shape="rect" id="node27" href="$structstxxl_1_1choose__int__types.html" title="stxxl::choose_int_types\l\&lt; PtrSize \&gt;" alt="" coords="7,438,172,485"/>
+</map>

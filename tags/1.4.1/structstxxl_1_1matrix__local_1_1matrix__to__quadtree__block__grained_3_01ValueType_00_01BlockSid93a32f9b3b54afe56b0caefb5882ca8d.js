@@ -1,0 +1,11 @@
+var structstxxl_1_1matrix__local_1_1matrix__to__quadtree__block__grained_3_01ValueType_00_01BlockSid93a32f9b3b54afe56b0caefb5882ca8d =
+[
+    [ "size_type", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree__block__grained_3_01ValueType_00_01BlockSid93a32f9b3b54afe56b0caefb5882ca8d.html#ab2084aefd8b64290968fb26516b0a4e0", null ],
+    [ "swappable_block_matrix_type", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree__block__grained_3_01ValueType_00_01BlockSid93a32f9b3b54afe56b0caefb5882ca8d.html#acb26b7f23450f89522b6886f33600091", null ],
+    [ "matrix_to_quadtree_block_grained", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree__block__grained_3_01ValueType_00_01BlockSid93a32f9b3b54afe56b0caefb5882ca8d.html#a6a5f9bbf445b0e6855fee7562f28ca88", null ],
+    [ "matrix_to_quadtree_block_grained", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree__block__grained_3_01ValueType_00_01BlockSid93a32f9b3b54afe56b0caefb5882ca8d.html#a55c50862b9b8bf6ababa83b8baeb3cfe", null ],
+    [ "get_height", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree__block__grained_3_01ValueType_00_01BlockSid93a32f9b3b54afe56b0caefb5882ca8d.html#abb39bcfc2d1b4d8977c4fe4229d7c74f", null ],
+    [ "get_width", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree__block__grained_3_01ValueType_00_01BlockSid93a32f9b3b54afe56b0caefb5882ca8d.html#afec71752d7260944f8f3f4e45a8ca392", null ],
+    [ "operator()", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree__block__grained_3_01ValueType_00_01BlockSid93a32f9b3b54afe56b0caefb5882ca8d.html#aff0306c2009ca0658b85674522e86bfb", null ],
+    [ "m", "structstxxl_1_1matrix__local_1_1matrix__to__quadtree__block__grained_3_01ValueType_00_01BlockSid93a32f9b3b54afe56b0caefb5882ca8d.html#a76a8f1aa20f7eada37c818815554b21c", null ]
+];

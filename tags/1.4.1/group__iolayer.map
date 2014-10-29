@@ -1,0 +1,4 @@
+<map id="I/O Primitives Layer" name="I/O Primitives Layer">
+<area shape="rect" id="node1" href="$group__reqlayer.html" title="Encapsulation of an I/O request, queues for requests and threads to process them. ..." alt="" coords="200,5,384,35"/>
+<area shape="rect" id="node2" href="$group__fileimpl.html" title="Implementations of stxxl::file for various file access methods and operating systems. " alt="" coords="205,59,379,88"/>
+</map>
